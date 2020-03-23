@@ -1,0 +1,35 @@
+PRINT THE SIMILAR TOPICS IN CONSECUTIVE YEARS:EDGES SUBGRAPHS OVERLAPPING SIMILARITY
+
+2014-2015 --> mathematical optimization <--> mathematical optimization
+1 set: {'algorithm', 'partition function (mathematics)', 'rate of convergence', 'evolutionary algorithm', 'optimization problem', 'mathematical optimization', 'constrained optimization', 'experiment', 'convex optimization', 'heuristic', 'http public key pinning'}
+2 set: {'convex optimization', 'mathematical optimization', 'optimization problem'}
+edges subgraphs overlapping similarity: 1.0
+
+2014-2015 --> optimal control|nonlinear system|dynamic programming <--> optimal control
+1 set: {'markov decision process', 'computer performance', 'algorithm', 'dynamic programming', 'bellman equation', 'iteration', 'hamilton–jacobi–bellman equation', 'optimal control', 'usb on-the-go', 'nonlinear system'}
+2 set: {'optimal control', 'control system', 'bellman equation'}
+edges subgraphs overlapping similarity: 1.0
+
+2014-2015 --> ilya sutskever|artificial neural network|neural network simulation|approximation algorithm <--> numerical analysis
+1 set: {'markov decision process', 'algorithm', 'approximation algorithm', 'noise reduction', 'neural network simulation', 'random neural network', 'hamilton–jacobi–bellman equation', 'pixel', 'time complexity', 'deep learning', 'computer performance', 'alex krizhevsky', 'activation function', 'partition function (mathematics)', 'lyapunov–krasovskii functional', 'neural network software', 'iteration', 'geoffrey e. hinton', 'convolutional neural network', 'social inequality', 'artificial neural network', 'ilya sutskever', 'exponential', 'recurrent neural network', 'linear matrix inequality', 'autoencoder', 'experiment'}
+2 set: {'linear matrix inequality', 'social inequality', 'numerical analysis'}
+edges subgraphs overlapping similarity: 1.0
+
+2015-2016 --> algorithm <--> algorithm
+1 set: {'algorithm', 'sergey levine', 'machine learning', 'honglak lee'}
+2 set: {'algorithm', 'machine learning', 'open research', 'training'}
+edges subgraphs overlapping similarity: 1.0
+
+2016-2017 --> social inequality|artificial neural network|lyapunov fractal|neural network simulation <--> social inequality|artificial neural network
+1 set: {'time-varying delay', 'time delay', 'lyapunov fractal', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'http public key pinning'}
+2 set: {'initial condition', 'social inequality', 'artificial neural network', 'spectral leakage', 'autoencoder', 'hopfield network'}
+edges subgraphs overlapping similarity: 1.0
+
+2017-2018 --> social inequality|artificial neural network <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'initial condition', 'social inequality', 'artificial neural network', 'spectral leakage', 'autoencoder', 'hopfield network'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+edges subgraphs overlapping similarity: 1.0
+
+FINAL MERGED LIST:
+
+[{'algorithm', 'partition function (mathematics)', 'rate of convergence', 'evolutionary algorithm', 'optimization problem', 'mathematical optimization', 'constrained optimization', 'experiment', 'convex optimization', 'heuristic', 'http public key pinning'}, {'markov decision process', 'computer performance', 'algorithm', 'dynamic programming', 'control system', 'bellman equation', 'iteration', 'hamilton–jacobi–bellman equation', 'optimal control', 'usb on-the-go', 'nonlinear system'}, {'markov decision process', 'algorithm', 'approximation algorithm', 'noise reduction', 'neural network simulation', 'random neural network', 'hamilton–jacobi–bellman equation', 'pixel', 'time complexity', 'deep learning', 'computer performance', 'alex krizhevsky', 'activation function', 'partition function (mathematics)', 'lyapunov–krasovskii functional', 'neural network software', 'iteration', 'geoffrey e. hinton', 'convolutional neural network', 'social inequality', 'artificial neural network', 'ilya sutskever', 'exponential', 'recurrent neural network', 'linear matrix inequality', 'autoencoder', 'experiment', 'numerical analysis'}, {'algorithm', 'machine learning', 'training', 'sergey levine', 'honglak lee', 'open research'}, {'time-varying delay', 'time delay', 'lyapunov fractal', 'initial condition', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'spectral leakage', 'autoencoder', 'hopfield network', 'http public key pinning'}, {'algorithm', 'initial condition', 'lyapunov fractal', 'simulation', 'neural network simulation', 'mathematical optimization', 'spectral leakage', 'nonlinear system', 'hopfield network', 'particle swarm optimization', 'social inequality', 'artificial neural network', 'direct method in the calculus of variations', 'linear matrix inequality', 'autoencoder', 'numerical analysis'}]

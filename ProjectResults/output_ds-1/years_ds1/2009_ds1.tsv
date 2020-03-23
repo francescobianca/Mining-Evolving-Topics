@@ -1,0 +1,202 @@
+cognitive radio	frequency band	{'e3c1aadf4975602966e6f1d10a1c14ab36e78267': 2}
+cognitive radio	interference (communication)	{'25d001aff3299c438f0ee46bb47549745170990e': 2}
+mathematical optimization	evolutionary algorithm	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+particle swarm optimization	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 3, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+algorithm	mathematical optimization	{'7f85c4651602ac80172601d9d992ce375f27ca46': 2}
+mathematical optimization	differential evolution	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2, '8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+web applications	web forums	{'5b8ce1ccadb1ce66c6d259d5ad4d5bfb7a68f8f2': 2, '5d99c13fc15f8b7e92628297e7f3a0643420932a': 2, '842d6c6c6d83960fc82d197d51da5645309687cc': 2}
+real data sets	desirable property	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+real data sets	style algorithm	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+real data sets	dual sparsity	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+real data sets	margin markov network	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+desirable property	style algorithm	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+desirable property	dual sparsity	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+desirable property	margin markov network	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+style algorithm	dual sparsity	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+style algorithm	margin markov network	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+dual sparsity	margin markov network	{'f3af0086ba0b92e5200355644410a66f9a410d08': 2, 'a0bd288c446e8a7b211a4250dd901467a5803cda': 2}
+34k14	92b20	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+distributed delay	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+blog network	information diffusion	{'42b5ecc92b0ec166e4362e519ea715b8f3951c80': 2}
+disjunctive normal form	evolutionary algorithm	{'e1ecea7998ab4c68918f18fdf64c84916c078b37': 2}
+fuzzy rule	evolutionary algorithm	{'e1ecea7998ab4c68918f18fdf64c84916c078b37': 2, '5003254a139570883b10bbaa7ca34128c77d4c89': 2}
+05.45.xt	05.45.vx	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+05.45.xt	05.45.gg	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, '618443e63001a18063f0a96f6cbfdf02b90f0608': 2}
+05.45.vx	05.45.gg	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+linear matrix inequality	social inequality	{'8a007601dbdf779d9423c0575292116f50ef4667': 3}
+visual quality	digital images captured	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2, '29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2}
+artificial neural network	biological neural networks	{'c597378696ccf04d6c127612bb08779544238ed1': 2}
+semantic attributes	semantic filexa0…	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes	manual entry	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes	semantic attributes allows	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes	improved organization	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes	attribute information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes	automatically generated	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic filexa0…	manual entry	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic filexa0…	semantic attributes allows	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic filexa0…	improved organization	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic filexa0…	attribute information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic filexa0…	automatically generated	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic filexa0…	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+manual entry	semantic attributes allows	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+manual entry	improved organization	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+manual entry	attribute information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+manual entry	automatically generated	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+manual entry	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes allows	improved organization	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes allows	attribute information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes allows	automatically generated	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+semantic attributes allows	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+improved organization	attribute information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+improved organization	automatically generated	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+improved organization	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+attribute information	automatically generated	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+attribute information	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+automatically generated	semantic information	{'24a7ba21bfd774cd05a21e5c46388675293174d4': 2, '8a4a7ef183fd0ae5428eb8fc144ebdc9094357fb': 2}
+complex networks	05.45.xt	{'618443e63001a18063f0a96f6cbfdf02b90f0608': 2}
+complex networks	05.45.gg	{'618443e63001a18063f0a96f6cbfdf02b90f0608': 2}
+data mining 	evolutionary algorithm	{'3b9149982dfa29ed68294bf4d1bd30230916b705': 2}
+particle swarm optimization	adaptive neuro fuzzy inference system	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	gradient descent	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	recursion	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	identification	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	stability analysis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	anfis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+particle swarm optimization	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	gradient descent	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	recursion	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	identification	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	stability analysis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	anfis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+adaptive neuro fuzzy inference system	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	recursion	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	identification	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	stability analysis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	anfis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+gradient descent	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	identification	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	stability analysis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	anfis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursion	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	stability analysis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	anfis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+identification	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	anfis	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+stability analysis	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	recursive least squares filter	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+anfis	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursive least squares filter	hybrid learning algorithm	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursive least squares filter	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursive least squares filter	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursive least squares filter	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursive least squares filter	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+recursive least squares filter	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+hybrid learning algorithm	system identifier	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+hybrid learning algorithm	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+hybrid learning algorithm	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+hybrid learning algorithm	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+hybrid learning algorithm	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+system identifier	simulation	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+system identifier	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+system identifier	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+system identifier	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+simulation	lyapunov fractal	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+simulation	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+simulation	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+lyapunov fractal	machine learning	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+lyapunov fractal	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+machine learning	mathematical optimization	{'2ede85f49eedb3c7a1b3209ba92ab7b12f10861e': 2, 'c8a1935cc38e43440977e665bb29b37e1acf46db': 2, 'c9cc6f9df67626977678cdacce5f1bea9a6708ef': 2}
+global optimization	mathematical optimization	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+global optimization	rate of convergence	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+global optimization	evolutionary algorithm	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+global optimization	differential evolution	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+test suite	mathematical optimization	{'8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+test suite	optimization problem	{'8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+test suite	differential evolution	{'8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+mathematical optimization	rate of convergence	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+mathematical optimization	optimization problem	{'8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+rate of convergence	evolutionary algorithm	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+rate of convergence	differential evolution	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+optimization problem	differential evolution	{'8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+evolutionary algorithm	differential evolution	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2}
+new approach	deep web	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+new approach	kosmix approach	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+new approach	significant information resource	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+new approach	web crawlers	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+new approach	inhospitable region	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+new approach	information discovery	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+new approach	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+deep web	kosmix approach	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+deep web	significant information resource	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+deep web	web crawlers	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+deep web	inhospitable region	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+deep web	information discovery	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+deep web	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+kosmix approach	significant information resource	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+kosmix approach	web crawlers	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+kosmix approach	inhospitable region	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+kosmix approach	information discovery	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+kosmix approach	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+significant information resource	web crawlers	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+significant information resource	inhospitable region	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+significant information resource	information discovery	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+significant information resource	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+web crawlers	inhospitable region	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+web crawlers	information discovery	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+web crawlers	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+inhospitable region	information discovery	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+inhospitable region	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+information discovery	conventional web search	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+aliasing	algorithm	{'c20d34d2224e82b1a1ca84af67ebd5afdcfd53a9': 2}
+aliasing	3d modeling	{'c20d34d2224e82b1a1ca84af67ebd5afdcfd53a9': 2}
+aliasing	reinforcement learning	{'c20d34d2224e82b1a1ca84af67ebd5afdcfd53a9': 2}
+algorithm	3d modeling	{'c20d34d2224e82b1a1ca84af67ebd5afdcfd53a9': 2}
+algorithm	reinforcement learning	{'c20d34d2224e82b1a1ca84af67ebd5afdcfd53a9': 2}
+3d modeling	reinforcement learning	{'c20d34d2224e82b1a1ca84af67ebd5afdcfd53a9': 2}
+neural networks	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+paper presents	cognitive radios	{'02526d66d1686f72dd739ec99b3eb70524dd826f': 2, '4f0247b98121170dd9048d2a1ca1b7e9f01c8286': 2}
+linear matrix inequality	neural networks	{'8a007601dbdf779d9423c0575292116f50ef4667': 2}
+neural networks	social inequality	{'8a007601dbdf779d9423c0575292116f50ef4667': 2}
+frequency allocation	cognitive radio	{'e3c1aadf4975602966e6f1d10a1c14ab36e78267': 2}
+frequency allocation	frequency band	{'e3c1aadf4975602966e6f1d10a1c14ab36e78267': 2}

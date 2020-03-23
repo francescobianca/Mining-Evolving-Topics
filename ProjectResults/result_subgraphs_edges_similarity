@@ -1,0 +1,20 @@
+PRINT THE SIMILAR TOPICS IN CONSECUTIVE YEARS:EDGES SUBGRAPHS OVERLAPPING SIMILARITY
+
+2008-2009 --> linear matrix inequality <--> mathematical optimization
+1 set: {'lyapunov method', 'exponential', 'lyapunov fractal', 'linear matrix inequality', 'mathematical optimization', 'exponential stability', 'neural networks', 'unbounded distributed delays', 'numerical analysis', 'artificial neural network', 'social inequality'}
+2 set: {'disjunctive normal form', 'fuzzy rule', 'machine learning', 'lyapunov fractal', 'mathematical optimization', 'global optimization', 'rate of convergence', 'evolutionary algorithm', 'differential evolution', 'system identifier'}
+edges subgraphs overlapping similarity: 1.0
+
+2014-2015 --> ilya sutskever|artificial neural network|optimal control|nonlinear system|dynamic programming <--> neural network simulation|artificial neural network
+1 set: {'matthew d. zeiler', 'nonlinear system', 'ilya sutskever', 'time complexity', 'encoder', 'optimal control', 'finite-time stabilization', 'linear matrix inequality', 'oriol vinyals', 'neural network software', 'statistical machine translation', 'yoshua bengio', 'artificial neural network', 'algorithm', 'neural machine translation', 'markov decision process', 'nal kalchbrenner', 'dynamic programming', 'quoc v. le', 'activation function', 'iterative method', 'bellman equation', 'mathematical model', 'social inequality', 'kyunghyun cho'}
+2 set: {'neural network simulation', 'memristor-based neural networks', 'memristor', 'synchronization', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}
+edges subgraphs overlapping similarity: 1.0
+
+2015-2016 --> neural network simulation|artificial neural network <--> artificial neural network
+1 set: {'neural network simulation', 'memristor-based neural networks', 'memristor', 'synchronization', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}
+2 set: {'hamilton–jacobi–bellman equation', 'sparse matrix', 'linear matrix inequality', 'memristor', 'language model', 'neural networks', 'artificial neural network'}
+edges subgraphs overlapping similarity: 1.0
+
+FINAL MERGED LIST:
+
+[{'disjunctive normal form', 'fuzzy rule', 'linear matrix inequality', 'mathematical optimization', 'rate of convergence', 'neural networks', 'unbounded distributed delays', 'artificial neural network', 'differential evolution', 'lyapunov method', 'machine learning', 'exponential', 'lyapunov fractal', 'global optimization', 'exponential stability', 'numerical analysis', 'evolutionary algorithm', 'social inequality', 'system identifier'}, {'matthew d. zeiler', 'nonlinear system', 'ilya sutskever', 'time complexity', 'encoder', 'optimal control', 'finite-time stabilization', 'linear matrix inequality', 'memristor', 'synchronization', 'oriol vinyals', 'neural network software', 'recurrent neural network', 'statistical machine translation', 'yoshua bengio', 'artificial neural network', 'computer simulation', 'neural network simulation', 'algorithm', 'neural machine translation', 'memristor-based neural networks', 'markov decision process', 'nal kalchbrenner', 'dynamic programming', 'quoc v. le', 'activation function', 'iterative method', 'bellman equation', 'mathematical model', 'social inequality', 'kyunghyun cho'}, {'neural network simulation', 'memristor-based neural networks', 'hamilton–jacobi–bellman equation', 'sparse matrix', 'linear matrix inequality', 'memristor', 'synchronization', 'language model', 'neural networks', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}]

@@ -1,0 +1,131 @@
+benchmark (computing)	particle swarm optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2, 'd9382af9de14ebe301e5953e70b7ca71ff1eb2d1': 2, '4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2}
+benchmark (computing)	evolutionary computation	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+benchmark (computing)	simulation	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+benchmark (computing)	genetic algorithm	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+benchmark (computing)	mathematical optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2, 'd9382af9de14ebe301e5953e70b7ca71ff1eb2d1': 3, '4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 4}
+particle swarm optimization	evolutionary computation	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+particle swarm optimization	simulation	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2, '3cfcd2c35ad5e1a25d5a16fe70879262d8ee0ee9': 2}
+particle swarm optimization	genetic algorithm	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+particle swarm optimization	mathematical optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2, 'd9382af9de14ebe301e5953e70b7ca71ff1eb2d1': 2, '4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2}
+evolutionary computation	simulation	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+evolutionary computation	genetic algorithm	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+evolutionary computation	mathematical optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+simulation	genetic algorithm	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+simulation	mathematical optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+genetic algorithm	mathematical optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+random variables	bayesian methods	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+bayesian methods	monte carlo methods	{'e6a6ccb9d62d8ec3ef525d873cd4ef2bcbb9c395': 2, 'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+bayesian methods	sliding mode control	{'e6a6ccb9d62d8ec3ef525d873cd4ef2bcbb9c395': 2, 'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+monte carlo methods	inference algorithms	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+monte carlo methods	sliding mode control	{'e6a6ccb9d62d8ec3ef525d873cd4ef2bcbb9c395': 2, 'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 3}
+inference algorithms	sliding mode control	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+bam neural networks	exponential stability	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+human eyes sensing	similar way	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+human eyes sensing	adaptive enhancement	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+human eyes sensing	tone frequency components	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+human eyes sensing	visual quality	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+similar way	adaptive enhancement	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+similar way	tone frequency components	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+similar way	visual quality	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+adaptive enhancement	tone frequency components	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+adaptive enhancement	visual quality	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+tone frequency components	visual quality	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+visual quality	digital images captured	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+artificial neural network	recurrent neural network	{'5ce37f9e0fda6c37003b44a26a4d4a3d5c1fa0bc': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+artificial neural network	lyapunov fractal	{'5ce37f9e0fda6c37003b44a26a4d4a3d5c1fa0bc': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 4}
+artificial neural network	social inequality	{'5ce37f9e0fda6c37003b44a26a4d4a3d5c1fa0bc': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+recurrent neural network	lyapunov fractal	{'5ce37f9e0fda6c37003b44a26a4d4a3d5c1fa0bc': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+recurrent neural network	social inequality	{'5ce37f9e0fda6c37003b44a26a4d4a3d5c1fa0bc': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+lyapunov fractal	social inequality	{'5ce37f9e0fda6c37003b44a26a4d4a3d5c1fa0bc': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+cellular neural networks	global exponential stability	{'00e3e908c526875e3f0785fa659136ac486e802b': 2, '7e1ddf6d024fd3e571addfbb918585b97dded6cd': 2}
+activation function	artificial neural network	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+activation function	lyapunov fractal	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+artificial neural network	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+lyapunov fractal	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+visual quality	nonuniform lighting conditions	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+benchmark (computing)	swarm robotics	{'d9382af9de14ebe301e5953e70b7ca71ff1eb2d1': 2, '4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2}
+particle swarm optimization	swarm robotics	{'d9382af9de14ebe301e5953e70b7ca71ff1eb2d1': 2, '4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2, '3cfcd2c35ad5e1a25d5a16fe70879262d8ee0ee9': 2}
+swarm robotics	mathematical optimization	{'d9382af9de14ebe301e5953e70b7ca71ff1eb2d1': 2, '4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2}
+radio resources	coordinated management	{'ec9028aff725d1b35cf34c50113dab86bcc5e31c': 2}
+global exponential stability	periodic solutions	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+global exponential stability	neural networks	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 3}
+periodic solutions	neural networks	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+convex optimization	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+simulation	algorithm	{'3cfcd2c35ad5e1a25d5a16fe70879262d8ee0ee9': 2}
+experimental results	algorithm finds	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+experimental results	user specified number	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+experimental results	synthetic mri	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+experimental results	satellite images	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+experimental results	wide applicability	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+experimental results	cluster groups	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+algorithm finds	user specified number	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+algorithm finds	synthetic mri	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+algorithm finds	satellite images	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+algorithm finds	wide applicability	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+algorithm finds	cluster groups	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+user specified number	synthetic mri	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+user specified number	satellite images	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+user specified number	wide applicability	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+user specified number	cluster groups	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+synthetic mri	satellite images	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+synthetic mri	wide applicability	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+synthetic mri	cluster groups	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+satellite images	wide applicability	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+satellite images	cluster groups	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+wide applicability	cluster groups	{'133b0857fae860857a17dd4b42b7c848da278f54': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+global exponential stability	discrete-time	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+ontology building	semantic web	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	usable methodologies	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	aware version	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	world wide web	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	making available large	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	methods proposed	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+ontology building	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	usable methodologies	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	aware version	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	world wide web	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	making available large	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	methods proposed	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+semantic web	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+usable methodologies	aware version	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+usable methodologies	world wide web	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+usable methodologies	making available large	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+usable methodologies	methods proposed	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+usable methodologies	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+usable methodologies	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+aware version	world wide web	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+aware version	making available large	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+aware version	methods proposed	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+aware version	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+aware version	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+world wide web	making available large	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+world wide web	methods proposed	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+world wide web	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+world wide web	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+making available large	methods proposed	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+making available large	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+making available large	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+methods proposed	knowledge representation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+methods proposed	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+knowledge representation	widely used standards	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, 'c5bfa5fa499d47b9004f145bf2213a61b9619afd': 2}
+volume brings	related topics	{'0ce3ecef284de4ce9a19b1a04e5d1cf4086a3e38': 2, '5b45d475bf3a59499547215d32c030229cc921da': 2, 'f5656bb349d766b3187efe504e372bd34dca0b5c': 2}
+mimo	transmitting antennas	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+mimo	receiving antennas	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+mimo	gaussian approximation	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+transmitting antennas	receiving antennas	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+transmitting antennas	gaussian approximation	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+receiving antennas	gaussian approximation	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+statistics	monte carlo methods	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+statistics	sliding mode control	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+mathematics	state estimation	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+mathematics	probability distribution	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+state estimation	probability distribution	{'059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+particle swarm optimization	algorithm	{'3cfcd2c35ad5e1a25d5a16fe70879262d8ee0ee9': 2}
+simulation	swarm robotics	{'3cfcd2c35ad5e1a25d5a16fe70879262d8ee0ee9': 2}
+swarm robotics	algorithm	{'3cfcd2c35ad5e1a25d5a16fe70879262d8ee0ee9': 2}
+scalability	problem domain	{'340d82a5f76220227fb6d1120878a07cb24a4111': 2}
+face images	face recognition	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+global asymptotic stability	linear matrix inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+equilibrium point	linear matrix inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}

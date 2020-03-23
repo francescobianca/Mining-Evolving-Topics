@@ -1,0 +1,200 @@
+PRINT THE SIMILAR TOPICS IN CONSECUTIVE YEARS:OVERLAPPING SIMILARITY
+
+2001-2002 --> signal processing <--> signal processing
+1 set: {'signal processing', 'fading'}
+2 set: {'signal processing'}
+overlapping similarity: 1.0
+
+2001-2002 --> filtering algorithms <--> filtering algorithms
+1 set: {'monte carlo methods', 'filtering algorithms'}
+2 set: {'filtering algorithms'}
+overlapping similarity: 1.0
+
+2001-2002 --> deconvolution|state estimation <--> state estimation
+1 set: {'monte carlo methods', 'linear systems', 'state estimation', 'deconvolution', 'computer simulation'}
+2 set: {'state estimation'}
+overlapping similarity: 1.0
+
+2006-2007 --> linear matrix inequality <--> linear matrix inequality
+1 set: {'sufficient conditions', 'linear matrix inequality', 'time delays', 'computationally efficient'}
+2 set: {'linear matrix inequality'}
+overlapping similarity: 1.0
+
+2006-2007 --> distributed delays <--> lyapunov functional
+1 set: {'distributed delays'}
+2 set: {'lyapunov functional', 'bidirectional associative memory neural networks', 'distributed delays'}
+overlapping similarity: 1.0
+
+2006-2007 --> time-varying delays|global exponential stability <--> time-varying delays
+1 set: {'global exponential stability', 'periodic solution', 'neural networks', 'time-varying delays'}
+2 set: {'time-varying delays'}
+overlapping similarity: 1.0
+
+2007-2008 --> artificial neural network <--> linear matrix inequality
+1 set: {'cohen–grossberg neural networks', 'artificial neural network'}
+2 set: {'lyapunov fractal', 'neural networks', 'lyapunov–krasovskii functional', 'lyapunov method', 'exponential', 'social inequality', 'artificial neural network', 'mathematical optimization', 'linear matrix inequality', 'numerical analysis'}
+overlapping similarity: 0.5
+
+2007-2008 --> linear matrix inequality <--> linear matrix inequality
+1 set: {'linear matrix inequality'}
+2 set: {'lyapunov fractal', 'neural networks', 'lyapunov–krasovskii functional', 'lyapunov method', 'exponential', 'social inequality', 'artificial neural network', 'mathematical optimization', 'linear matrix inequality', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2007-2008 --> social inequality <--> linear matrix inequality
+1 set: {'social inequality'}
+2 set: {'lyapunov fractal', 'neural networks', 'lyapunov–krasovskii functional', 'lyapunov method', 'exponential', 'social inequality', 'artificial neural network', 'mathematical optimization', 'linear matrix inequality', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2008-2009 --> linear matrix inequality <--> mathematical optimization
+1 set: {'lyapunov fractal', 'neural networks', 'lyapunov–krasovskii functional', 'lyapunov method', 'exponential', 'social inequality', 'artificial neural network', 'mathematical optimization', 'linear matrix inequality', 'numerical analysis'}
+2 set: {'rate of convergence', 'evolutionary algorithm', 'mathematical optimization', 'global optimization', 'test suite', 'differential evolution', 'optimization problem'}
+overlapping similarity: 0.14285714285714285
+
+2009-2010 --> mathematical optimization <--> multi-agent system|reinforcement learning
+1 set: {'rate of convergence', 'evolutionary algorithm', 'mathematical optimization', 'global optimization', 'test suite', 'differential evolution', 'optimization problem'}
+2 set: {'algorithm', 'multi-agent system', 'iterative method', 'numerical analysis', 'mathematical optimization', 'programming paradigm', 'real-time clock', 'action selection', 'rate of convergence', 'reinforcement learning', 'stationary process', 'cognitive radio', 'self-organization', "whole earth 'lectronic link", 'q-learning'}
+overlapping similarity: 0.2857142857142857
+
+2010-2011 --> multi-agent system|reinforcement learning <--> linear matrix inequality|artificial neural network|lyapunov fractal
+1 set: {'algorithm', 'multi-agent system', 'iterative method', 'numerical analysis', 'mathematical optimization', 'programming paradigm', 'real-time clock', 'action selection', 'rate of convergence', 'reinforcement learning', 'stationary process', 'cognitive radio', 'self-organization', "whole earth 'lectronic link", 'q-learning'}
+2 set: {'stochastic neural network', 'time complexity', 'lyapunov fractal', 'neural network simulation', 'numerical analysis', 'artificial neural network', 'linear matrix inequality', 'hopfield network'}
+overlapping similarity: 0.125
+
+2014-2015 --> lyapunov fractal <--> lyapunov fractal
+1 set: {'neural network software', 'lyapunov fractal'}
+2 set: {'lyapunov fractal'}
+overlapping similarity: 1.0
+
+2014-2015 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis'}
+2 set: {'linear matrix inequality', 'social inequality', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2014-2015 --> mathematical optimization <--> mathematical optimization
+1 set: {'algorithm', 'partition function (mathematics)', 'rate of convergence', 'evolutionary algorithm', 'optimization problem', 'mathematical optimization', 'constrained optimization', 'experiment', 'convex optimization', 'heuristic', 'http public key pinning'}
+2 set: {'convex optimization', 'mathematical optimization', 'optimization problem'}
+overlapping similarity: 1.0
+
+2014-2015 --> optimal control|nonlinear system|dynamic programming <--> optimal control
+1 set: {'markov decision process', 'computer performance', 'algorithm', 'dynamic programming', 'bellman equation', 'iteration', 'hamilton–jacobi–bellman equation', 'optimal control', 'usb on-the-go', 'nonlinear system'}
+2 set: {'optimal control', 'control system', 'bellman equation'}
+overlapping similarity: 0.6666666666666666
+
+2014-2015 --> ilya sutskever|artificial neural network|neural network simulation|approximation algorithm <--> numerical analysis
+1 set: {'markov decision process', 'algorithm', 'approximation algorithm', 'noise reduction', 'neural network simulation', 'random neural network', 'hamilton–jacobi–bellman equation', 'pixel', 'time complexity', 'deep learning', 'computer performance', 'alex krizhevsky', 'activation function', 'partition function (mathematics)', 'lyapunov–krasovskii functional', 'neural network software', 'iteration', 'geoffrey e. hinton', 'convolutional neural network', 'social inequality', 'artificial neural network', 'ilya sutskever', 'exponential', 'recurrent neural network', 'linear matrix inequality', 'autoencoder', 'experiment'}
+2 set: {'linear matrix inequality', 'social inequality', 'numerical analysis'}
+overlapping similarity: 0.6666666666666666
+
+2015-2016 --> artificial neural network <--> social inequality|artificial neural network|lyapunov fractal|neural network simulation
+1 set: {'theory', 'bellman equation', 'sergey levine', 'artificial neural network', 'honglak lee', 'memristor'}
+2 set: {'time-varying delay', 'time delay', 'lyapunov fractal', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'http public key pinning'}
+overlapping similarity: 0.16666666666666666
+
+2015-2016 --> numerical analysis <--> numerical analysis
+1 set: {'linear matrix inequality', 'social inequality', 'numerical analysis'}
+2 set: {'numerical analysis', 'http public key pinning'}
+overlapping similarity: 0.5
+
+2015-2016 --> nonlinear system <--> nonlinear system
+1 set: {'converge', 'control system', 'sergey levine', 'honglak lee', 'nonlinear system'}
+2 set: {'optimal control', 'nonlinear system'}
+overlapping similarity: 0.5
+
+2015-2016 --> lyapunov fractal <--> social inequality|artificial neural network|lyapunov fractal|neural network simulation
+1 set: {'lyapunov fractal'}
+2 set: {'time-varying delay', 'time delay', 'lyapunov fractal', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'http public key pinning'}
+overlapping similarity: 1.0
+
+2015-2016 --> algorithm <--> algorithm
+1 set: {'algorithm', 'sergey levine', 'machine learning', 'honglak lee'}
+2 set: {'algorithm', 'machine learning', 'open research', 'training'}
+overlapping similarity: 0.5
+
+2015-2016 --> neural network simulation <--> social inequality|artificial neural network|lyapunov fractal|neural network simulation
+1 set: {'neural network simulation', 'memristor'}
+2 set: {'time-varying delay', 'time delay', 'lyapunov fractal', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'http public key pinning'}
+overlapping similarity: 0.5
+
+2015-2016 --> mathematical optimization <--> mathematical optimization
+1 set: {'convex optimization', 'mathematical optimization', 'optimization problem'}
+2 set: {'test set', 'mathematical optimization', 'open research', 'genetic programming'}
+overlapping similarity: 0.3333333333333333
+
+2015-2016 --> optimal control <--> simulation
+1 set: {'optimal control', 'control system', 'bellman equation'}
+2 set: {'simulation', 'optimal control'}
+overlapping similarity: 0.5
+
+2016-2017 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis', 'http public key pinning'}
+2 set: {'numerical analysis'}
+overlapping similarity: 1.0
+
+2016-2017 --> nonlinear system <--> semiconductor industry|nonlinear system
+1 set: {'optimal control', 'nonlinear system'}
+2 set: {'converge', 'triangular matrix', 'feedback', 'control theory', 'nonlinear system', 'semiconductor industry'}
+overlapping similarity: 0.5
+
+2016-2017 --> algorithm <--> algorithm
+1 set: {'algorithm', 'machine learning', 'open research', 'training'}
+2 set: {'algorithm', 'reinforcement learning', 'autoencoder'}
+overlapping similarity: 0.3333333333333333
+
+2016-2017 --> simulation <--> simulation
+1 set: {'simulation', 'optimal control'}
+2 set: {'simulation'}
+overlapping similarity: 1.0
+
+2016-2017 --> mathematical optimization <--> mathematical optimization
+1 set: {'test set', 'mathematical optimization', 'open research', 'genetic programming'}
+2 set: {'mathematical optimization'}
+overlapping similarity: 1.0
+
+2016-2017 --> social inequality|artificial neural network|lyapunov fractal|neural network simulation <--> neural network simulation
+1 set: {'time-varying delay', 'time delay', 'lyapunov fractal', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'http public key pinning'}
+2 set: {'neural network simulation'}
+overlapping similarity: 1.0
+
+2017-2018 --> neural network simulation <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'neural network simulation'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2017-2018 --> lyapunov fractal <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'lyapunov fractal', 'initial condition'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 0.5
+
+2017-2018 --> numerical analysis <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'numerical analysis'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2017-2018 --> algorithm <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'algorithm', 'reinforcement learning', 'autoencoder'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 0.3333333333333333
+
+2017-2018 --> mathematical optimization <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'mathematical optimization'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2017-2018 --> simulation <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'simulation'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 1.0
+
+2017-2018 --> semiconductor industry|nonlinear system <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'converge', 'triangular matrix', 'feedback', 'control theory', 'nonlinear system', 'semiconductor industry'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 0.16666666666666666
+
+2017-2018 --> social inequality|artificial neural network <--> mathematical optimization|artificial neural network|social inequality|lyapunov fractal
+1 set: {'initial condition', 'social inequality', 'artificial neural network', 'spectral leakage', 'autoencoder', 'hopfield network'}
+2 set: {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}
+overlapping similarity: 0.3333333333333333
+
+FINAL MERGED LIST:
+
+[{'signal processing', 'fading'}, {'monte carlo methods', 'filtering algorithms'}, {'monte carlo methods', 'linear systems', 'state estimation', 'deconvolution', 'computer simulation'}, {'sufficient conditions', 'linear matrix inequality', 'time delays', 'computationally efficient'}, {'lyapunov functional', 'bidirectional associative memory neural networks', 'distributed delays'}, {'global exponential stability', 'periodic solution', 'neural networks', 'time-varying delays'}, {'lyapunov fractal', 'linear matrix inequality', 'neural networks', 'lyapunov–krasovskii functional', 'lyapunov method', 'exponential', 'social inequality', 'artificial neural network', 'mathematical optimization', 'cohen–grossberg neural networks', 'numerical analysis'}, {'lyapunov fractal', 'neural networks', 'lyapunov–krasovskii functional', 'lyapunov method', 'exponential', 'social inequality', 'artificial neural network', 'mathematical optimization', 'linear matrix inequality', 'numerical analysis'}, {'lyapunov fractal', 'neural networks', 'lyapunov–krasovskii functional', 'rate of convergence', 'lyapunov method', 'exponential', 'social inequality', 'evolutionary algorithm', 'artificial neural network', 'mathematical optimization', 'global optimization', 'test suite', 'linear matrix inequality', 'differential evolution', 'optimization problem', 'numerical analysis'}, {'algorithm', 'multi-agent system', 'iterative method', 'self-organization', 'evolutionary algorithm', 'mathematical optimization', 'test suite', 'programming paradigm', 'real-time clock', 'action selection', 'q-learning', 'rate of convergence', 'reinforcement learning', 'stationary process', 'cognitive radio', 'global optimization', 'differential evolution', 'optimization problem', "whole earth 'lectronic link", 'numerical analysis'}, {'algorithm', 'multi-agent system', 'iterative method', 'lyapunov fractal', 'neural network simulation', 'numerical analysis', 'mathematical optimization', 'programming paradigm', 'real-time clock', 'time complexity', 'hopfield network', 'stochastic neural network', 'action selection', 'rate of convergence', 'reinforcement learning', 'stationary process', 'artificial neural network', 'cognitive radio', 'linear matrix inequality', 'self-organization', "whole earth 'lectronic link", 'q-learning'}, {'neural network software', 'lyapunov fractal'}, {'linear matrix inequality', 'social inequality', 'numerical analysis'}, {'algorithm', 'partition function (mathematics)', 'rate of convergence', 'evolutionary algorithm', 'optimization problem', 'mathematical optimization', 'constrained optimization', 'experiment', 'convex optimization', 'heuristic', 'http public key pinning'}, {'markov decision process', 'computer performance', 'algorithm', 'dynamic programming', 'control system', 'bellman equation', 'iteration', 'hamilton–jacobi–bellman equation', 'optimal control', 'usb on-the-go', 'nonlinear system'}, {'markov decision process', 'algorithm', 'approximation algorithm', 'noise reduction', 'neural network simulation', 'random neural network', 'hamilton–jacobi–bellman equation', 'pixel', 'time complexity', 'deep learning', 'computer performance', 'alex krizhevsky', 'activation function', 'partition function (mathematics)', 'lyapunov–krasovskii functional', 'neural network software', 'iteration', 'geoffrey e. hinton', 'convolutional neural network', 'social inequality', 'artificial neural network', 'ilya sutskever', 'exponential', 'recurrent neural network', 'linear matrix inequality', 'autoencoder', 'experiment', 'numerical analysis'}, {'time-varying delay', 'time delay', 'theory', 'lyapunov fractal', 'neural network simulation', 'bellman equation', 'sergey levine', 'feedback', 'optimal control', 'honglak lee', 'sparse matrix', 'memristor', 'http public key pinning', 'numerical linear algebra', 'social inequality', 'artificial neural network'}, {'social inequality', 'linear matrix inequality', 'numerical analysis', 'http public key pinning'}, {'sergey levine', 'optimal control', 'honglak lee', 'nonlinear system', 'converge', 'control system'}, {'time-varying delay', 'lyapunov fractal', 'time delay', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'http public key pinning'}, {'algorithm', 'machine learning', 'training', 'sergey levine', 'honglak lee', 'open research'}, {'time-varying delay', 'time delay', 'lyapunov fractal', 'neural network simulation', 'numerical linear algebra', 'social inequality', 'feedback', 'optimal control', 'artificial neural network', 'sparse matrix', 'memristor', 'http public key pinning'}, {'optimization problem', 'test set', 'mathematical optimization', 'open research', 'convex optimization', 'genetic programming'}, {'optimal control', 'simulation', 'control system', 'bellman equation'}, {'numerical analysis', 'http public key pinning'}, {'semiconductor industry', 'converge', 'triangular matrix', 'optimal control', 'feedback', 'control theory', 'nonlinear system'}, {'algorithm', 'reinforcement learning', 'autoencoder', 'open research', 'machine learning', 'training'}, {'simulation', 'optimal control'}, {'test set', 'mathematical optimization', 'open research', 'genetic programming'}, {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}, {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'initial condition', 'simulation', 'neural network simulation', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'numerical analysis'}, {'algorithm', 'particle swarm optimization', 'lyapunov fractal', 'simulation', 'neural network simulation', 'reinforcement learning', 'social inequality', 'artificial neural network', 'mathematical optimization', 'direct method in the calculus of variations', 'linear matrix inequality', 'nonlinear system', 'autoencoder', 'numerical analysis'}, {'algorithm', 'lyapunov fractal', 'simulation', 'neural network simulation', 'triangular matrix', 'feedback', 'control theory', 'mathematical optimization', 'semiconductor industry', 'nonlinear system', 'particle swarm optimization', 'converge', 'social inequality', 'artificial neural network', 'direct method in the calculus of variations', 'linear matrix inequality', 'numerical analysis'}, {'algorithm', 'initial condition', 'lyapunov fractal', 'simulation', 'neural network simulation', 'mathematical optimization', 'spectral leakage', 'nonlinear system', 'hopfield network', 'particle swarm optimization', 'social inequality', 'artificial neural network', 'direct method in the calculus of variations', 'linear matrix inequality', 'autoencoder', 'numerical analysis'}]

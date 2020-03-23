@@ -1,0 +1,63 @@
+particle swarm optimization	velocity (software development)	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2}
+particle swarm optimization	mathematical optimization	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2}
+velocity (software development)	mathematical optimization	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2}
+artificial neural network	linear matrix inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'a133635a50984f41dd437e5a233d8010ea1b501d': 3}
+artificial neural network	time-varying delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+artificial neural network	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 5, 'a133635a50984f41dd437e5a233d8010ea1b501d': 3}
+artificial neural network	social inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 3, 'a133635a50984f41dd437e5a233d8010ea1b501d': 3}
+artificial neural network	lyapunov functional	{'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+synchronization	chaos	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+synchronization	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+chaos	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+linear matrix inequality	time-varying delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+linear matrix inequality	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'a133635a50984f41dd437e5a233d8010ea1b501d': 3}
+linear matrix inequality	social inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'a133635a50984f41dd437e5a233d8010ea1b501d': 3}
+linear matrix inequality	lyapunov functional	{'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+lyapunov fractal	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+time-varying delays	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+neural network simulation	social inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 3, 'a133635a50984f41dd437e5a233d8010ea1b501d': 3}
+neural network simulation	lyapunov functional	{'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+social inequality	lyapunov functional	{'a133635a50984f41dd437e5a233d8010ea1b501d': 2}
+paper focuses	fuzzy logic control	{'f6ca8b3df5f50d99682c7bd69f84bcf30b49be06': 2}
+paper focuses	fuzzy multi	{'f6ca8b3df5f50d99682c7bd69f84bcf30b49be06': 2}
+paper focuses	mobility management	{'f6ca8b3df5f50d99682c7bd69f84bcf30b49be06': 2}
+fuzzy logic control	fuzzy multi	{'f6ca8b3df5f50d99682c7bd69f84bcf30b49be06': 2}
+fuzzy logic control	mobility management	{'f6ca8b3df5f50d99682c7bd69f84bcf30b49be06': 2}
+fuzzy multi	mobility management	{'f6ca8b3df5f50d99682c7bd69f84bcf30b49be06': 2}
+artificial neural network	cohen–grossberg neural networks	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+cohen–grossberg neural networks	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+genetic algorithm	fuzzy rule	{'e1ecea7998ab4c68918f18fdf64c84916c078b37': 2, '3b9149982dfa29ed68294bf4d1bd30230916b705': 2}
+lag synchronization	chaos	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+multiplier-less architecture	logarithmic domain computation	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+illegal trade	substantially contribute	{'37467bd1a4d51cf89b279b8c3ec6837788e25788': 2, '4f107c06ffef151a133ea85fec1dcfc090ffb9fb': 2}
+entry points	web forms	{'6dc6afc7b8d19c16039f411257e3da8bd76dd867': 2, '01d62138eab4b39ff9899d0871514074f27f7bae': 2}
+particle swarm optimization	evolutionary algorithm	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2}
+numerical analysis	mathematical optimization	{'58ebc04acd6728a1d8f33c3f61b0750902e7747e': 2}
+mathematical optimization	evolutionary algorithm	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2}
+human colon	endoscopic technique	{'7f4ad569ef1b424eed560a43df6ce11cd8dcc6e4': 2, '1ed91a71228d41982bc327de50981a870a933281': 2}
+lasalle invariance principle	mean square asymptotic stability	{'cb67825d32b4e18b804c44a35f3334f9d5e293e1': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+experimental results	information retrieval	{'a4ee6d695bb7fbcd76269566de7d63489bb978d0': 2, 'c79790c08c3d7e337edd0c0058f934a4027a06ac': 2, 'cc2d3e4f171f843fd13b6985ec132d4a1fd0a302': 2}
+lyapunov–krasovskii functional	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+bidirectional associative memory	content-addressable memory	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+distributed delays	bidirectional associative memory neural networks	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+distributed delays	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+bidirectional associative memory neural networks	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+artificial neural network	bidirectional associative memory	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+artificial neural network	content-addressable memory	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+bidirectional associative memory	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+content-addressable memory	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+varying delays	e systems	{'8adb261fe3465cadb42d0540dba42f49d0b7a5ca': 2}
+varying delays	varying delay	{'8adb261fe3465cadb42d0540dba42f49d0b7a5ca': 2}
+e systems	varying delay	{'8adb261fe3465cadb42d0540dba42f49d0b7a5ca': 2}
+rate of convergence	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+estimating integrals	widely used	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+estimating integrals	multidimensional domains	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+estimating integrals	scientific computation especially	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+estimating integrals	monte carlo	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+widely used	multidimensional domains	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+widely used	scientific computation especially	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+widely used	monte carlo	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+multidimensional domains	scientific computation especially	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+multidimensional domains	monte carlo	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+scientific computation especially	monte carlo	{'4f8e2524ca378e622b304a4d6a2b39b688f1dd06': 2}
+velocity (software development)	evolutionary algorithm	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2}

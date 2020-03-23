@@ -1,0 +1,382 @@
+linear matrix inequality	lyapunov fractal	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, '3ff39748f0016f58da7a3e81623ad435080e286e': 2, 'c398821eeb40120067cc0ceb1489410741c6f99f': 2}
+interference (communication)	multitier architecture	{'c64756dd500db112b665570730e3ad13d76ca413': 2}
+interference (communication)	signal-to-interference-plus-noise ratio	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+checking (action)	lyapunov fractal	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+lyapunov fractal	exponential	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+lyapunov fractal	social inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+exponential	social inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+swarm robotics 	self-organization 	{'5b0735061c33c9f1849de2e781a6ce48acd61b77': 2}
+swarm robotics 	swarm intelligence 	{'5b0735061c33c9f1849de2e781a6ce48acd61b77': 2}
+self-organization 	swarm intelligence 	{'5b0735061c33c9f1849de2e781a6ce48acd61b77': 2}
+telecommunications link	simulation	{'29a190468235200834c3b43f5724962543b5ae8e': 2, '103cf34900a82c085f442a204a941099e1632e6f': 2, '0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+telecommunications link	interference (communication)	{'29a190468235200834c3b43f5724962543b5ae8e': 2, '103cf34900a82c085f442a204a941099e1632e6f': 2, '0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+simulation	interference (communication)	{'29a190468235200834c3b43f5724962543b5ae8e': 2, '103cf34900a82c085f442a204a941099e1632e6f': 2, '0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 3}
+interference (communication)	quality of service	{'0deadd5c6c462f053a66e3c1f12550b525285403': 2}
+channel capacity	interference (communication)	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+cognitive radio	interference (communication)	{'c64756dd500db112b665570730e3ad13d76ca413': 2}
+cognitive radio	multitier architecture	{'c64756dd500db112b665570730e3ad13d76ca413': 2}
+cognitive radio	software deployment	{'c64756dd500db112b665570730e3ad13d76ca413': 2}
+interference (communication)	software deployment	{'c64756dd500db112b665570730e3ad13d76ca413': 2}
+multitier architecture	software deployment	{'c64756dd500db112b665570730e3ad13d76ca413': 2}
+time complexity	lyapunov fractal	{'3ff39748f0016f58da7a3e81623ad435080e286e': 2}
+cognitive radio	interaction	{'311de9fe12f62d5c9ceea1b115d77adefd128f54': 2}
+cognitive radio	algorithm	{'e8c45f5dd2b9cd3a1f4fab939daa4c15f33dec3b': 2, '9407026e1de7cc96137a81ec5e37d16c2f921ca6': 2}
+cognitive radio	reinforcement learning	{'311de9fe12f62d5c9ceea1b115d77adefd128f54': 2, '9407026e1de7cc96137a81ec5e37d16c2f921ca6': 2, 'e8c45f5dd2b9cd3a1f4fab939daa4c15f33dec3b': 2}
+reinforcement learning	interaction	{'311de9fe12f62d5c9ceea1b115d77adefd128f54': 2}
+question search	queried question based	{'fdaa9446c82a02fba5d3022b2a4f5e726d8d4704': 2, 'aaea73b80aa2bedf46aa5152e9345ad1a16db0ae': 2}
+cognitive radio	autonomous robot	{'e8c45f5dd2b9cd3a1f4fab939daa4c15f33dec3b': 2, '9407026e1de7cc96137a81ec5e37d16c2f921ca6': 2}
+algorithm	autonomous robot	{'e8c45f5dd2b9cd3a1f4fab939daa4c15f33dec3b': 2, '9407026e1de7cc96137a81ec5e37d16c2f921ca6': 2}
+algorithm	mathematical optimization	{'6fd000cbdd671055f0395c529f73bd13593a5e33': 2}
+dependent deep	network hmms	{'6119ecda19af52efb66331e3619e639be6f86c75': 2}
+dependent deep	mixture hmms	{'6119ecda19af52efb66331e3619e639be6f86c75': 2}
+dependent deep	discriminatively trained gaussian	{'6119ecda19af52efb66331e3619e639be6f86c75': 2}
+network hmms	mixture hmms	{'6119ecda19af52efb66331e3619e639be6f86c75': 2}
+network hmms	discriminatively trained gaussian	{'6119ecda19af52efb66331e3619e639be6f86c75': 2}
+mixture hmms	discriminatively trained gaussian	{'6119ecda19af52efb66331e3619e639be6f86c75': 2}
+discrepancy function	generalization error	{'af283064bd25954d2bfeaa413eb8c7ad598e6bb0': 2, '1660da5944843414ef2384268656ab7a45cd7650': 2, '47fc2fbf541a2c664e351f38857665d8072d23c7': 2}
+discrepancy function	maximal set	{'af283064bd25954d2bfeaa413eb8c7ad598e6bb0': 2, '1660da5944843414ef2384268656ab7a45cd7650': 2, '47fc2fbf541a2c664e351f38857665d8072d23c7': 2}
+generalization error	maximal set	{'af283064bd25954d2bfeaa413eb8c7ad598e6bb0': 2, '1660da5944843414ef2384268656ab7a45cd7650': 2, '47fc2fbf541a2c664e351f38857665d8072d23c7': 2}
+multiple secondary users	key idea	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+multiple secondary users	multiple primary users	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+multiple secondary users	pus negotiate	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+multiple secondary users	proposed algorithm	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+key idea	multiple primary users	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+key idea	pus negotiate	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+key idea	proposed algorithm	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+multiple primary users	pus negotiate	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+multiple primary users	proposed algorithm	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+pus negotiate	proposed algorithm	{'8a67620c1226ec0d458662fb4e9cd665385a84eb': 2, '7bdb68a1cc09ac0e28b7a20628571c487b95cfe2': 2, '4e45560a6c985588c25b9f39f0a6c209e49a8dfd': 2}
+artificial neural network	impulses	{'164057e7f3416b8f2878d2a7d422ce287a79a2e0': 2}
+artificial neural network	distributed delays	{'164057e7f3416b8f2878d2a7d422ce287a79a2e0': 2}
+artificial neural network	hopfield-type neural networks	{'164057e7f3416b8f2878d2a7d422ce287a79a2e0': 2}
+impulses	distributed delays	{'164057e7f3416b8f2878d2a7d422ce287a79a2e0': 2}
+impulses	hopfield-type neural networks	{'164057e7f3416b8f2878d2a7d422ce287a79a2e0': 2}
+distributed delays	hopfield-type neural networks	{'164057e7f3416b8f2878d2a7d422ce287a79a2e0': 2}
+particle swarm optimization	differential evolution	{'3a6d666fcf31a9c5ea4cb52746280ef013dbecd4': 2, 'de5c13f8e479da1c1d8d2a58054b2bafa6f9fe2c': 2, '6aabd3020a695ed08826f225d09c1b7a284bc755': 2}
+particle swarm optimization	resonance	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+particle swarm optimization	plasmon	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+particle swarm optimization	tree rearrangement	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+particle swarm optimization	mathematical optimization	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+resonance	plasmon	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+resonance	tree rearrangement	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+resonance	mathematical optimization	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+plasmon	tree rearrangement	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+plasmon	mathematical optimization	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+tree rearrangement	mathematical optimization	{'2287d8ee63ac7498ac94bcac451f39f323276377': 2, 'd68a1893e0c4134c1a0d2864eaa8499551eb87a5': 2, 'be8e89bd0f4d888c1a1a32372bc2122ab281bd89': 2}
+artificial neural network	synchronization (computer science)	{'6815d26cf8d06fe99e2a14a60171dd60245715b8': 2}
+artificial neural network	time complexity	{'3ff39748f0016f58da7a3e81623ad435080e286e': 2}
+artificial neural network	numerical analysis	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2, '2d9275ece979d2e189f689679f32500edff003f9': 2, '45ceab6f78941565533683e0d4fb3f60f8483681': 2}
+artificial neural network	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, '6ff12f57911d4b1238b761b160a68f5bb8e2cbc8': 2}
+artificial neural network	nonlinear system	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+artificial neural network	approximation algorithm	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+artificial neural network	lyapunov fractal	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, 'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2, '2d9275ece979d2e189f689679f32500edff003f9': 2, '3ff39748f0016f58da7a3e81623ad435080e286e': 2, '45ceab6f78941565533683e0d4fb3f60f8483681': 2}
+nonlinear system	approximation algorithm	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+lyapunov fractal	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+algorithm	machine learning	{'c0182d50027f5a8cdd3445811566965498f1f46b': 2}
+parameter adaptation	differential evolution	{'4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2, 'f4b54b7a2d24c40643b65c50ac47e0459a9ff831': 2}
+multiple transmitting antennas	multiple receiving antennas	{'55b5c2b49974dd5be1ead71d4a86a8444d24db9a': 3}
+mathematical optimization	differential evolution	{'6f0a9d8c1972a0dbe213709d2d47f6b7d1e81398': 2}
+evolutionary algorithm	differential evolution	{'4fe434ef63c8685ab13a7f5c2279c4af1b70f718': 2}
+centralized computing	quality of service	{'0deadd5c6c462f053a66e3c1f12550b525285403': 2}
+artificial neural network	linear matrix inequality	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 3, '6ff12f57911d4b1238b761b160a68f5bb8e2cbc8': 2}
+artificial neural network	social inequality	{'6ff12f57911d4b1238b761b160a68f5bb8e2cbc8': 2}
+numerical analysis	linear matrix inequality	{'8a007601dbdf779d9423c0575292116f50ef4667': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+numerical analysis	social inequality	{'8a007601dbdf779d9423c0575292116f50ef4667': 2}
+linear matrix inequality	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2, '6ff12f57911d4b1238b761b160a68f5bb8e2cbc8': 2}
+linear matrix inequality	social inequality	{'8a007601dbdf779d9423c0575292116f50ef4667': 2, '6ff12f57911d4b1238b761b160a68f5bb8e2cbc8': 2}
+neural network simulation	social inequality	{'6ff12f57911d4b1238b761b160a68f5bb8e2cbc8': 2}
+mapreduce rounds	constant number	{'222b094780f0950533de11a65d91f281409072d8': 2}
+hopfield network	lyapunov fractal	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2, '2d9275ece979d2e189f689679f32500edff003f9': 2}
+artificial neural network	spectral leakage	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 3}
+artificial neural network	broadcast delay	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 3}
+leakage delay 	linear matrix inequality 	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2}
+linear matrix inequality	spectral leakage	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2}
+linear matrix inequality	broadcast delay	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2}
+spectral leakage	broadcast delay	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 3}
+stochastic neural network	artificial neural network	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+stochastic neural network	linear matrix inequality	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 3}
+stochastic neural network	lyapunov fractal	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+stochastic neural network	neural network simulation	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+method employs	paper describes	{'5a0481d573e9e81fae5f064450d23bb9019f2ef3': 2}
+particle swarm optimization	s ability	{'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2, 'd525dd780ac282c474f37de5dad01c4bee88800f': 2}
+particle swarm optimization	population diversity	{'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2, 'd525dd780ac282c474f37de5dad01c4bee88800f': 2}
+s ability	population diversity	{'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2, 'd525dd780ac282c474f37de5dad01c4bee88800f': 2}
+cognitive radio	quality of service	{'7e1fa0b22e2c2e97d4c2304f43693a127036462d': 2}
+experimental results	knowledge base	{'2231372ada96dfad248ba7cae86285fce97120af': 2, 'a6f366a33751ba59eb5b425d12672e4b22211521': 2}
+experimental results	entity linking	{'2231372ada96dfad248ba7cae86285fce97120af': 2, 'a6f366a33751ba59eb5b425d12672e4b22211521': 2}
+knowledge base	entity linking	{'2231372ada96dfad248ba7cae86285fce97120af': 2, 'a6f366a33751ba59eb5b425d12672e4b22211521': 2}
+construct proposal kernels	general framework	{'9c3b839f77c455e9b3ae7151c5c6031cdcb03f23': 2, '36fbf6a229133aabc57e331aea822eb172dcf121': 2}
+construct proposal kernels	recently andrieu doucet	{'9c3b839f77c455e9b3ae7151c5c6031cdcb03f23': 2, '36fbf6a229133aabc57e331aea822eb172dcf121': 2}
+construct proposal kernels	using particle filters	{'9c3b839f77c455e9b3ae7151c5c6031cdcb03f23': 2, '36fbf6a229133aabc57e331aea822eb172dcf121': 2}
+general framework	recently andrieu doucet	{'9c3b839f77c455e9b3ae7151c5c6031cdcb03f23': 2, '36fbf6a229133aabc57e331aea822eb172dcf121': 2}
+general framework	using particle filters	{'9c3b839f77c455e9b3ae7151c5c6031cdcb03f23': 2, '36fbf6a229133aabc57e331aea822eb172dcf121': 2}
+recently andrieu doucet	using particle filters	{'9c3b839f77c455e9b3ae7151c5c6031cdcb03f23': 2, '36fbf6a229133aabc57e331aea822eb172dcf121': 2}
+numerical analysis	hopfield network	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2, '2d9275ece979d2e189f689679f32500edff003f9': 2}
+numerical analysis	lyapunov fractal	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 3, '2d9275ece979d2e189f689679f32500edff003f9': 3, '45ceab6f78941565533683e0d4fb3f60f8483681': 2, '06c97d695b3d42f6e824b7c2754fec96e7db4b35': 2}
+evolutionary algorithm	experiment	{'e1ecea7998ab4c68918f18fdf64c84916c078b37': 2, '5003254a139570883b10bbaa7ca34128c77d4c89': 2}
+approximation algorithm	experiment	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+hard problem	parallel applications	{'596903f260098124387a37a32fbef0997824f803': 2}
+hard problem	important factor	{'596903f260098124387a37a32fbef0997824f803': 2}
+hard problem	achieve high performance	{'596903f260098124387a37a32fbef0997824f803': 2}
+parallel applications	important factor	{'596903f260098124387a37a32fbef0997824f803': 2}
+parallel applications	achieve high performance	{'596903f260098124387a37a32fbef0997824f803': 2}
+important factor	achieve high performance	{'596903f260098124387a37a32fbef0997824f803': 2}
+increasingly inadequate	critical role	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	topic navigation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	membership structure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	promising alternative	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	coherent clusters allowing	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	clustering results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+increasingly inadequate	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	topic navigation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	membership structure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	promising alternative	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	coherent clusters allowing	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	clustering results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+critical role	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	membership structure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	promising alternative	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	coherent clusters allowing	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	clustering results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+topic navigation	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	promising alternative	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	coherent clusters allowing	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	clustering results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+membership structure	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	coherent clusters allowing	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	clustering results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+promising alternative	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	clustering results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+coherent clusters allowing	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	ranked lists	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering results	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	long list	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+ranked lists	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	common strategy	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+long list	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	disparate search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+common strategy	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	search engines	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+disparate search results	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	automatic clustering procedure	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engines	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	wiki interface	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+automatic clustering procedure	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	introduce clusteringwiki	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+wiki interface	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	search results	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+introduce clusteringwiki	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search results	search engine utility	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search results	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search results	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search results	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search results	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search results	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engine utility	clustering divides	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engine utility	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engine utility	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engine utility	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+search engine utility	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering divides	unprecedented scale	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering divides	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering divides	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+clustering divides	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+unprecedented scale	personalized presentation	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+unprecedented scale	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+unprecedented scale	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+personalized presentation	personalized clustering	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+personalized presentation	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+personalized clustering	clustering algorithms	{'c1d94e6ebdb812ca61a0cfc494ae1f9c1ef56ff5': 2, 'aea0e7f888e5135e643b1fbfe6ff61650b4f6613': 2, 'b4dfb3647cde529132f7961ee69c8f792a804c5f': 2}
+convex function	artificial neural network	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+convex function	ising model	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+convex function	nonlinear system	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+convex function	approximation algorithm	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+convex function	experiment	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+artificial neural network	ising model	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+artificial neural network	experiment	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+ising model	nonlinear system	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+ising model	approximation algorithm	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+ising model	experiment	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+nonlinear system	experiment	{'85907a7f816b4bd0c847130344067145090812d0': 2, '9b0fc202d2921514e45be76165c105a4ea07859a': 2}
+expected spread	influence maximization	{'2f63a6c48449ca76b2f4102e5a9ede2a1831bb42': 2, 'e2f1ae37741a558a3301ff4a18cf14a32609b267': 2}
+low-power broadcasting	simulation	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+low-power broadcasting	interference (communication)	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+low-power broadcasting	fairness measure	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+low-power broadcasting	signal-to-interference-plus-noise ratio	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+simulation	fairness measure	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 3}
+simulation	signal-to-interference-plus-noise ratio	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+interference (communication)	fairness measure	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 3}
+fairness measure	signal-to-interference-plus-noise ratio	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+interference (communication)	centralized computing	{'0deadd5c6c462f053a66e3c1f12550b525285403': 2}
+variational principle	inpainting	{'cefbbb41e098c2d7a19ea082f1f7be48ed9fbcc5': 2}
+support vector machine	model selection	{'f48034f1825693d62d979a3f83d1406f71a0d051': 2, 'af283064bd25954d2bfeaa413eb8c7ad598e6bb0': 2, '47fc2fbf541a2c664e351f38857665d8072d23c7': 2}
+telecommunications link	channel capacity	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+telecommunications link	fairness measure	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+channel capacity	simulation	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+channel capacity	fairness measure	{'0ef9ab9def6a7ee29d1e4a2a1ec62b4e62a1bb4c': 2}
+genetic regulatory networks	gene regulatory network	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}

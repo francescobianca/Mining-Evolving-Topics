@@ -1,0 +1,13 @@
+artificial neural network	neural network simulation	{'6fa1a6a39e146fd9e9ea686c0983529f42b3b471': 2}
+nonlinear system	simulation	{'d6b6b02e3e9df8e04318548379caabf0497e48c7': 2, '5ab82c9447c47562726b1796f4a442fce611bb82': 2, '77617fc7e6591329dcac8e5d9cb78184391c8794': 2}
+nonlinear system	motion estimation 	{'d6b6b02e3e9df8e04318548379caabf0497e48c7': 2, '5ab82c9447c47562726b1796f4a442fce611bb82': 2, '77617fc7e6591329dcac8e5d9cb78184391c8794': 2}
+simulation	motion estimation 	{'d6b6b02e3e9df8e04318548379caabf0497e48c7': 2, '5ab82c9447c47562726b1796f4a442fce611bb82': 2, '77617fc7e6591329dcac8e5d9cb78184391c8794': 2}
+support vector machine	feature vector	{'a701e1d501ec5b2b6729046c0e8bd1bef2885186': 2}
+support vector machine	experiment	{'a701e1d501ec5b2b6729046c0e8bd1bef2885186': 2}
+feature vector	experiment	{'a701e1d501ec5b2b6729046c0e8bd1bef2885186': 2}
+periodic solution	43.80.+p	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+periodic solution	delay	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+periodic solution	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+43.80.+p	delay	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+43.80.+p	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+delay	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}

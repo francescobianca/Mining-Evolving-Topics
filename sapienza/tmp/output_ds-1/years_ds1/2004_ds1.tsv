@@ -1,0 +1,225 @@
+benchmark (computing)	particle swarm optimization	{'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2}
+benchmark (computing)	mathematical optimization	{'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2}
+particle swarm optimization	mathematical optimization	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2, 'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 3}
+stochastic process	algorithm	{'340d82a5f76220227fb6d1120878a07cb24a4111': 2}
+algorithm	reinforcement learning	{'e16f050aaa953e41882c72d325596459828d409c': 2}
+random number generation	parallel computing	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+random number generation	monte carlo method	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+parallel computing	monte carlo method	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+shading	photometric stereo	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+shading	map	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+shading	view synthesis	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+shading	interpolation	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+shading	autostereogram	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+photometric stereo	map	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+photometric stereo	view synthesis	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+photometric stereo	interpolation	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+photometric stereo	autostereogram	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+map	view synthesis	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+map	interpolation	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+map	autostereogram	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+view synthesis	interpolation	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+view synthesis	autostereogram	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+interpolation	autostereogram	{'3d3344621f4f37916cf28d1d60087439f7a571e6': 2, '719207d3782747e87cd74e1699e4a102ceb6e919': 2}
+test set	overfitting	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+mathematical optimization	experiment	{'b3097c4e85c4422b0f51ed78ba03cb66f06070d4': 2}
+facial recognition system	database	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+subgroup a nepoviruses	algorithm	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 3}
+subgroup a nepoviruses	heuristic	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+subgroup a nepoviruses	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 4}
+algorithm	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 3}
+heuristic	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+random number generation	linear congruential generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+random number generation	pseudorandom number generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+random number generation	computation	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+parallel computing	linear congruential generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+parallel computing	pseudorandom number generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+parallel computing	computation	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+monte carlo method	linear congruential generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+monte carlo method	pseudorandom number generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+monte carlo method	computation	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+linear congruential generator	pseudorandom number generator	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+linear congruential generator	computation	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+pseudorandom number generator	computation	{'b2bb40bc2a58a69a304cda6861a602095762de28': 2}
+digital images	rapid growth	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+digital images	efficient method	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+digital images	increasing demand	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+digital images	images available	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+rapid growth	efficient method	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+rapid growth	increasing demand	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+rapid growth	images available	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+link information	block containing	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+link information	accurately extracted	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+efficient method	increasing demand	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+efficient method	images available	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+increasing demand	images available	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+block containing	accurately extracted	{'5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2}
+biasing	algorithm	{'340d82a5f76220227fb6d1120878a07cb24a4111': 2, 'd67016ffb5036380e3202e316876ee4ee125e907': 2}
+apply cross	sentence pronoun resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	document summary	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	summarizing document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	semantic normalization	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	semantic graph	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	reference resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+apply cross	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	document summary	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	summarizing document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	semantic normalization	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	semantic graph	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	reference resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+sentence pronoun resolution	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	summarizing document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	semantic normalization	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	semantic graph	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	reference resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+document summary	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+summarizing document	semantic normalization	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+summarizing document	semantic graph	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+summarizing document	reference resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+summarizing document	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+summarizing document	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+summarizing document	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic normalization	semantic graph	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic normalization	reference resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic normalization	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic normalization	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic normalization	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic graph	reference resolution	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic graph	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic graph	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+semantic graph	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+reference resolution	extract sentences	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+reference resolution	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+reference resolution	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+extract sentences	original document	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+extract sentences	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+original document	deep syntactic analysis	{'f0b8861c53c52330ac1b1b7900fba948c9a03061': 2}
+digital libraries	fundamental ions	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2, 'e88a22f360fa4bc14b3c431dd8837ce6e10b4cd3': 2}
+digital libraries	complex information systems	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2, 'e88a22f360fa4bc14b3c431dd8837ce6e10b4cd3': 2}
+digital libraries	interoperability suffers	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2, 'e88a22f360fa4bc14b3c431dd8837ce6e10b4cd3': 2}
+fundamental ions	complex information systems	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2, 'e88a22f360fa4bc14b3c431dd8837ce6e10b4cd3': 2}
+fundamental ions	interoperability suffers	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2, 'e88a22f360fa4bc14b3c431dd8837ce6e10b4cd3': 2}
+complex information systems	interoperability suffers	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2, 'e88a22f360fa4bc14b3c431dd8837ce6e10b4cd3': 2}
+mathematical optimization	linear discriminant analysis	{'b3097c4e85c4422b0f51ed78ba03cb66f06070d4': 2}
+linear discriminant analysis	experiment	{'b3097c4e85c4422b0f51ed78ba03cb66f06070d4': 2}
+bi-directional associative memory (bam)	lyapunov functional	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+subgroup a nepoviruses	real life	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+subgroup a nepoviruses	roc curve	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+real life	roc curve	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+real life	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+roc curve	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+different learning circumstances	conceptualisation effort produced	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	proposed evaluation strategy	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	critical task	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	ontology learning algorithms	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	domain specialists	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	detailed quantitative analysis	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+different learning circumstances	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	proposed evaluation strategy	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	critical task	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	ontology learning algorithms	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	domain specialists	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	detailed quantitative analysis	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+conceptualisation effort produced	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	critical task	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	ontology learning algorithms	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	domain specialists	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	detailed quantitative analysis	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+proposed evaluation strategy	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	ontology learning algorithms	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	domain specialists	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	detailed quantitative analysis	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+critical task	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontology learning algorithms	domain specialists	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontology learning algorithms	detailed quantitative analysis	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontology learning algorithms	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontology learning algorithms	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontology learning algorithms	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontology learning algorithms	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+domain specialists	detailed quantitative analysis	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+domain specialists	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+domain specialists	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+domain specialists	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+domain specialists	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+detailed quantitative analysis	knowledge engineers	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+detailed quantitative analysis	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+detailed quantitative analysis	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+detailed quantitative analysis	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+knowledge engineers	paper provides	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+knowledge engineers	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+knowledge engineers	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+paper provides	ontolearn ontology learning	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+paper provides	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+ontolearn ontology learning	ontology evaluation	{'d192cd2fda3537732736730eb04cb3225e4d6df6': 2, '3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+previous work shows	uniform approach	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+previous work shows	consistent view	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+previous work shows	user study	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+previous work shows	multiple segments	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+previous work shows	differentiating noisy	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+previous work shows	web page	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+uniform approach	consistent view	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+uniform approach	user study	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+uniform approach	multiple segments	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+uniform approach	differentiating noisy	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+uniform approach	web page	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+consistent view	user study	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+consistent view	multiple segments	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+consistent view	differentiating noisy	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+consistent view	web page	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+user study	multiple segments	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+user study	differentiating noisy	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+user study	web page	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+multiple segments	differentiating noisy	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+multiple segments	web page	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+differentiating noisy	web page	{'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, 'd24e39c557b96f990ea7c5b28f5347f94d8cf974': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, '7eaf4cefb0d05da8cb68cd1b4b870b2f4a6ddac0': 2}
+link analysis	web page	{'9f9dc3a6290ef3e7cf9ecce44b6a130a114380af': 2, '5be2dbe8c0b70a44c9a0a7a20d4c7580adc662e6': 2, 'ef88aeb9b4228d08ed3d5f5505ac8c1721e22d93': 2, '023ea99bab22cd99618a1b7323ef79b332080d56': 2}
+consortium	apriori algorithm	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+consortium	real life	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+apriori algorithm	real life	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+ant colony optimization algorithms	algorithm	{'340d82a5f76220227fb6d1120878a07cb24a4111': 2}
+ant colony optimization algorithms	apache ant (another neat tool)	{'340d82a5f76220227fb6d1120878a07cb24a4111': 2}
+algorithm	apache ant (another neat tool)	{'340d82a5f76220227fb6d1120878a07cb24a4111': 2}
+large	class	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+large	subgroup a nepoviruses	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+large	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+class	subgroup a nepoviruses	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+class	rule (guideline)	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2}
+certain applications	large number	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+certain applications	real time	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+certain applications	desktop workstation	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+certain applications	recent advances	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+certain applications	time vision	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+certain applications	implementing systems	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+large number	real time	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+large number	desktop workstation	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+large number	recent advances	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+large number	time vision	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+large number	implementing systems	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+real time	desktop workstation	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+real time	recent advances	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+real time	time vision	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+real time	implementing systems	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+desktop workstation	recent advances	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+desktop workstation	time vision	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+desktop workstation	implementing systems	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+recent advances	time vision	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+recent advances	implementing systems	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}
+time vision	implementing systems	{'a1fb8cdf414f41d9c8ad0a07bd28d81a7a2d84a0': 2}

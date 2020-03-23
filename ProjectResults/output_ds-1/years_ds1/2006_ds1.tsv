@@ -1,0 +1,114 @@
+particle swarm optimization	algorithm	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+paper presents	frw method	{'2241e4dee83f514197b36c0c5b4c07b42ec80aad': 2, '9948f8429191ff6c76ba376189d63d3d70bfacf4': 2}
+artificial neural network	time-varying delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+periodic solution	time-varying delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+linear matrix inequality	computationally efficient	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+linear matrix inequality	sufficient conditions	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+computationally efficient	sufficient conditions	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+ontology libraries	search engines	{'41b8ed8163f8fefbd5aeaf52324e101642cee5da': 2, '34e41c05bf39798160d17179d602feb7536725d7': 2}
+cohen–grossberg neural network	time-varying delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+linear matrix inequality	lyapunov fractal	{'0e1abbbc12a9f8ef2a601522002b78c1bcaa0cbb': 2, 'e0ea07db79e7b241da31021fbb893a30feaafd47': 2}
+global exponential stability	neural networks	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+core ontology 	ontology learning 	{'3bf7a010ce3e000a1314d728bc188ba641226a60': 2}
+lyapunov function	globally asymptotic stability	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+lyapunov function	feedback control	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+lyapunov function	permanence	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+lyapunov function	lower average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+lyapunov function	upper average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+globally asymptotic stability	feedback control	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+globally asymptotic stability	permanence	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+globally asymptotic stability	lower average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+globally asymptotic stability	upper average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+feedback control	permanence	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+feedback control	lower average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+feedback control	upper average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+34d40	primary 34c05	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+34d40	permanence	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+34d40	34c25	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+primary 34c05	permanence	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+primary 34c05	34c25	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+permanence	lower average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+permanence	upper average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+permanence	34c25	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+lower average	upper average	{'2e1a53176c0da2d8fe557806409bfd26bbb0e6b9': 2}
+artificial neural network	numerical analysis	{'3ac728443508542f9e2055b2e96af871822acce8': 2, 'd20de39f000a8ef1107281956c3936836baf9779': 2}
+global exponential stability	distributed delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 3}
+global exponential stability	time-varying delays	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+stochastic systems	time delays	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+stochastic systems	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 3, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 3}
+time delays	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+global asymptotic stability	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 4, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 4}
+global exponential stability	lyapunov–krasovskii functional	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+global exponential stability	discrete and distributed delays	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+global exponential stability	global asymptotic stability	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+global exponential stability	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+lyapunov–krasovskii functional	discrete and distributed delays	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+lyapunov–krasovskii functional	global asymptotic stability	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 4, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 4}
+lyapunov–krasovskii functional	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 4, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 4}
+discrete and distributed delays	global asymptotic stability	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+discrete and distributed delays	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+algorithm	machine learning	{'ee48324d8f43e25bc0fc8088a99e98e46d120ab2': 2, '5186d38a6f88f8188d395447559bb9722fec697e': 2}
+compliant information systems	information models	{'685ced24ef70457f34d020d393a619f794171640': 2}
+compliant information systems	standard defines	{'685ced24ef70457f34d020d393a619f794171640': 2}
+compliant information systems	currently different standards	{'685ced24ef70457f34d020d393a619f794171640': 2}
+information models	standard defines	{'685ced24ef70457f34d020d393a619f794171640': 2}
+information models	currently different standards	{'685ced24ef70457f34d020d393a619f794171640': 2}
+standard defines	currently different standards	{'685ced24ef70457f34d020d393a619f794171640': 2}
+hessian	variational principle	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+hessian	gradient	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+hessian	numerical analysis	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+hessian	computation	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+hessian	experiment	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+variational principle	gradient	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+variational principle	numerical analysis	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+variational principle	computation	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+variational principle	experiment	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+gradient	numerical analysis	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+gradient	computation	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+gradient	experiment	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+numerical analysis	computation	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+numerical analysis	experiment	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+computation	experiment	{'53383cd99b3f8b14b086743c7604255397e26160': 2, '6000d452f0cebb821997c174d6dcaf1874463859': 2}
+distributed delays	linear matrix inequality	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2, 'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2}
+numerical analysis	linear matrix inequality	{'e0ea07db79e7b241da31021fbb893a30feaafd47': 2}
+numerical analysis	lyapunov fractal	{'e0ea07db79e7b241da31021fbb893a30feaafd47': 2}
+global exponential stability	periodic solution	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+periodic solution	neural networks	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+phy (chip)	cognitive radio	{'72b785b3228f289cee300b5b3e73adcabdc2b928': 2}
+finite-state machine	feature vector	{'f14db434877d428ac1e834cc9632260aa414286f': 2}
+finite-state machine	mathematical induction	{'f14db434877d428ac1e834cc9632260aa414286f': 2}
+feature vector	mathematical induction	{'f14db434877d428ac1e834cc9632260aa414286f': 2}
+arachnoid spinal space	biomedical application	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+arachnoid spinal space	tiny space	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+arachnoid spinal space	strongly challenging	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+arachnoid spinal space	delicate anatomical structures	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+arachnoid spinal space	paper refers	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+biomedical application	tiny space	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+biomedical application	strongly challenging	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+biomedical application	delicate anatomical structures	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+biomedical application	paper refers	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+tiny space	strongly challenging	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+tiny space	delicate anatomical structures	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+tiny space	paper refers	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+strongly challenging	delicate anatomical structures	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+strongly challenging	paper refers	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+delicate anatomical structures	paper refers	{'dfadc17c017bce56ad2954501adaa6e9ad1c91e9': 2, '185ee3892c76a59cf9d67805a58ed874427ddaf2': 2}
+algorithm	optimization problem	{'67f04fad3a4d25bba3b36865bfbf89ddfcd9fbaa': 2}
+discrete delays	global asymptotic stability	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2, 'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2}
+discrete delays	distributed delays	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2, 'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2}
+global asymptotic stability	distributed delays	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2, 'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2}
+artificial neural network	algorithm	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+algorithm	linear discriminant analysis	{'13d1799f014f56515c59ceb16649a2b1b26a5a0a': 2}
+stochastic systems	hopfield neural networks	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+stochastic systems	lyapunov–krasovskii functional	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+stochastic systems	global asymptotic stability	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+stochastic systems	uncertain systems	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+hopfield neural networks	lyapunov–krasovskii functional	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+hopfield neural networks	global asymptotic stability	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+hopfield neural networks	linear matrix inequality	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+hopfield neural networks	uncertain systems	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+lyapunov–krasovskii functional	uncertain systems	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+global asymptotic stability	uncertain systems	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+linear matrix inequality	uncertain systems	{'bc701521bfaffae0a37ea5e9e609a3d99b62e99b': 2, 'd3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+particle swarm optimization	quantum	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}
+quantum	algorithm	{'42c6b17862f6a71fd2223905e22f350b9c7b2d72': 2}

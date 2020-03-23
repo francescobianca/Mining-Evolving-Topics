@@ -1,0 +1,227 @@
+algorithm	computation	{'64e424824928c6ab3b57ad3bbd69dca534f9a6de': 2}
+numerical analysis	mathematical optimization	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+numerical analysis	social inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+mathematical optimization	social inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+paper presents	advanced cross	{'229216a8eee366582168e09073543c7d73b5db8f': 2, '9f1a1be7713174da6ad1c2ad48b72462c6b50177': 2}
+paper presents	lingual information access	{'229216a8eee366582168e09073543c7d73b5db8f': 2, '9f1a1be7713174da6ad1c2ad48b72462c6b50177': 2}
+paper presents	task cluster	{'229216a8eee366582168e09073543c7d73b5db8f': 2, '9f1a1be7713174da6ad1c2ad48b72462c6b50177': 2}
+advanced cross	lingual information access	{'229216a8eee366582168e09073543c7d73b5db8f': 2, '9f1a1be7713174da6ad1c2ad48b72462c6b50177': 2}
+advanced cross	task cluster	{'229216a8eee366582168e09073543c7d73b5db8f': 2, '9f1a1be7713174da6ad1c2ad48b72462c6b50177': 2}
+lingual information access	task cluster	{'229216a8eee366582168e09073543c7d73b5db8f': 2, '9f1a1be7713174da6ad1c2ad48b72462c6b50177': 2}
+artificial neural network	numerical analysis	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+artificial neural network	linear matrix inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+artificial neural network	lyapunov fractal	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+artificial neural network	mathematical optimization	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+artificial neural network	social inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+artificial neural network	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+global asymptotic stability	linear matrix inequality	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2, 'f2e71ea4db322850257baf17d3166f81616b96ab': 2}
+numerical analysis	linear matrix inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+numerical analysis	lyapunov fractal	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+numerical analysis	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+linear matrix inequality	lyapunov fractal	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+linear matrix inequality	neural networks	{'8a007601dbdf779d9423c0575292116f50ef4667': 2, '4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+linear matrix inequality	mathematical optimization	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+linear matrix inequality	social inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2, '8a007601dbdf779d9423c0575292116f50ef4667': 2, '4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+linear matrix inequality	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+lyapunov fractal	neural networks	{'d20de39f000a8ef1107281956c3936836baf9779': 2}
+lyapunov fractal	mathematical optimization	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+lyapunov fractal	social inequality	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2, 'd20de39f000a8ef1107281956c3936836baf9779': 2}
+lyapunov fractal	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+neural networks	social inequality	{'8a007601dbdf779d9423c0575292116f50ef4667': 2, '4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2, 'd20de39f000a8ef1107281956c3936836baf9779': 2}
+mathematical optimization	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+social inequality	lyapunov method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, 'fc5619ebcb3b6514354cac6e74d52a195e6e3be4': 2}
+simulation	cognitive radio	{'a830cbc5707559f0f1585aa1508274bc8bde2097': 2}
+89.75.kd	multistability	{'2133e260d5eb6d4ad07413759fa59ab96f285240': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+89.75.kd	07.05.mh	{'2133e260d5eb6d4ad07413759fa59ab96f285240': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+multistability	07.05.mh	{'2133e260d5eb6d4ad07413759fa59ab96f285240': 2, '622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+throughput	interference (communication)	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+throughput	algorithm	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+cognitive radio	interference (communication)	{'977c6f4c49072445f7cd7caa6d542a3b56b3a945': 2, 'e390082b00c8d36b7db9bb687564d84ae3b5a55c': 2}
+interference (communication)	algorithm	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+unbounded distributed delays	lyapunov–krasovskii functional	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2, 'f2e71ea4db322850257baf17d3166f81616b96ab': 2}
+unbounded distributed delays	global asymptotic stability	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2, 'f2e71ea4db322850257baf17d3166f81616b96ab': 2}
+unbounded distributed delays	linear matrix inequality	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2, 'f2e71ea4db322850257baf17d3166f81616b96ab': 2}
+lyapunov–krasovskii functional	global asymptotic stability	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 2, 'f2e71ea4db322850257baf17d3166f81616b96ab': 2}
+lyapunov–krasovskii functional	linear matrix inequality	{'3203e6c5b896f0003029bf7d94a1f683150fa4fb': 3, 'f2e71ea4db322850257baf17d3166f81616b96ab': 3}
+lyapunov fractal	exponential	{'d20de39f000a8ef1107281956c3936836baf9779': 2}
+exponential	social inequality	{'d20de39f000a8ef1107281956c3936836baf9779': 2}
+throughput	ici (programming language)	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+throughput	systems architecture	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+throughput	user interface	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+throughput	multi-user	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+throughput	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+throughput	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	systems architecture	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	interference (communication)	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	algorithm	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	user interface	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	multi-user	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+ici (programming language)	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+systems architecture	interference (communication)	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+systems architecture	algorithm	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+systems architecture	user interface	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+systems architecture	multi-user	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+systems architecture	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+systems architecture	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+interference (communication)	user interface	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+interference (communication)	multi-user	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+interference (communication)	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+interference (communication)	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+algorithm	user interface	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+algorithm	multi-user	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+algorithm	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+algorithm	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+user interface	multi-user	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+user interface	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+user interface	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+multi-user	relay	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+multi-user	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+relay	signal-to-interference-plus-noise ratio	{'7b08e02fe5b12064ec113397c5ea7ef386567837': 2}
+access network selection	promising access network	{'7b8b245db43b2d7f1443320c095257f4c5850fbb': 2, 'e790be80d73ceedd0cc08fec4daff67b1c78147b': 2}
+varying delays	linear matrix inequality	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+krasovskii functional	matlab lmi toolbox	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+krasovskii functional	distributed time	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+matlab lmi toolbox	distributed time	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+exponential stability	linear matrix inequality	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+artificial neural network	biological neural networks	{'3f64902aa7b67f0dc163255ca5eacc3ba51510a1': 2}
+chaos theory	continuous optimization	{'dd55d6e48fd39ecaebfb737e094d7cb573113f4a': 2}
+adaptive technique	enhancement technique constitutes	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+adaptive technique	color restoration	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+adaptive technique	image enhancement based	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+enhancement technique constitutes	color restoration	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+enhancement technique constitutes	image enhancement based	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+color restoration	image enhancement based	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+global optimization	rate of convergence	{'6c93a0f788723e3bbd686a2e37b475983395f0a2': 2}
+mathematical optimization	rate of convergence	{'fd2e0ec6af3a68672f6e93fc12e34bace7741757': 2}
+pixel	optical flow	{'42566a1cc903665ac0a3863198a552ac31417402': 2}
+pixel	sparse matrix	{'42566a1cc903665ac0a3863198a552ac31417402': 2}
+optical flow	sparse matrix	{'42566a1cc903665ac0a3863198a552ac31417402': 2}
+using eigen faces	face database	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+using eigen faces	face recognition	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+using eigen faces	eigen faces	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+using eigen faces	popular method	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+face database	face recognition	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+face database	eigen faces	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+face database	popular method	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+face recognition	eigen faces	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+face recognition	popular method	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+eigen faces	popular method	{'89238f507d0f75349aa1624c56b7cdf67eddd310': 2}
+approximation coefficients	new wavelet	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+approximation coefficients	dimension reduction	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+approximation coefficients	dynamic range compression	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+approximation coefficients	wavelet transform	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+new wavelet	dimension reduction	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+new wavelet	dynamic range compression	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+new wavelet	wavelet transform	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+dimension reduction	dynamic range compression	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+dimension reduction	wavelet transform	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+dynamic range compression	wavelet transform	{'29deeeaf8f3c14564a00576ca7d5665eaf89cbf9': 2, 'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+domain ontology 	description logic 	{'8502e7881163cd0b8c2d7749eacf64c6b3afc381': 2}
+query server accesses	specified products	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	crawler program	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	scored web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	criteria according	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	locate pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	responsive web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+query server accesses	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	crawler program	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	scored web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	criteria according	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	locate pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	responsive web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+specified products	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	scored web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	criteria according	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	locate pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	responsive web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+crawler program	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	criteria according	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	locate pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	responsive web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored web pages	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	locate pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	responsive web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+criteria according	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	responsive web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locate pages	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	s search query	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+responsive web pages	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+s search query	product offering	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+s search query	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+s search query	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+s search query	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+s search query	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+s search query	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+product offering	scored based	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+product offering	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+product offering	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+product offering	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+product offering	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored based	search engine	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored based	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored based	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+scored based	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+search engine	web pages located	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+search engine	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+search engine	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+web pages located	locating web pages	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+web pages located	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+locating web pages	assists users	{'531a68c6fcd4ca6541f76cea0536fefcf7db470f': 2}
+concept lattice 	domain ontology 	{'8502e7881163cd0b8c2d7749eacf64c6b3afc381': 2}
+concept lattice 	description logic 	{'8502e7881163cd0b8c2d7749eacf64c6b3afc381': 2}
+concept lattice 	formal context 	{'8502e7881163cd0b8c2d7749eacf64c6b3afc381': 2}
+domain ontology 	formal context 	{'8502e7881163cd0b8c2d7749eacf64c6b3afc381': 2}
+description logic 	formal context 	{'8502e7881163cd0b8c2d7749eacf64c6b3afc381': 2}
+heterogeneous networks	femto cell	{'0e1c42364d790c51decff5210a9485aa6e3d0589': 2, '5019c703387c2d099e1e69641282b796917c5e98': 2}
+neural networks	exponential	{'d20de39f000a8ef1107281956c3936836baf9779': 2}
+image scaling	selection algorithm	{'ea2d837d1d660d202d4014b019b9f14c422a7c47': 2, 'edc6dd81af215fa3030f2c521be053e915721c0b': 2, '97e477d309a769c61ea186aa3308acf67e8ab606': 2}
+image scaling	instance selection	{'ea2d837d1d660d202d4014b019b9f14c422a7c47': 2, 'edc6dd81af215fa3030f2c521be053e915721c0b': 2, '97e477d309a769c61ea186aa3308acf67e8ab606': 2}
+image scaling	subgroup discovery	{'ea2d837d1d660d202d4014b019b9f14c422a7c47': 2, 'edc6dd81af215fa3030f2c521be053e915721c0b': 2, '97e477d309a769c61ea186aa3308acf67e8ab606': 2}
+selection algorithm	instance selection	{'ea2d837d1d660d202d4014b019b9f14c422a7c47': 2, 'edc6dd81af215fa3030f2c521be053e915721c0b': 2, '97e477d309a769c61ea186aa3308acf67e8ab606': 2}
+selection algorithm	subgroup discovery	{'ea2d837d1d660d202d4014b019b9f14c422a7c47': 2, 'edc6dd81af215fa3030f2c521be053e915721c0b': 2, '97e477d309a769c61ea186aa3308acf67e8ab606': 2}
+instance selection	subgroup discovery	{'ea2d837d1d660d202d4014b019b9f14c422a7c47': 2, 'edc6dd81af215fa3030f2c521be053e915721c0b': 2, '97e477d309a769c61ea186aa3308acf67e8ab606': 2}
+water distribution	injected contaminant	{'6da93b0963252ca32e7501b7f42df3b0567e9e94': 2}
+stochastic neural networks	time-varying delays	{'d3afe3566a7c47dc157553ac27da43011c248b3b': 2}
+markov chain	markov decision process	{'be6649d50bb91013acfd36f5b4d2f6760b92572f': 2}

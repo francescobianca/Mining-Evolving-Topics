@@ -1,0 +1,185 @@
+PRINT THE SIMILAR TOPICS IN CONSECUTIVE YEARS:OVERLAPPING SIMILARITY
+
+2001-2002 --> signal processing <--> signal processing
+1 set: {'signal processing'}
+2 set: {'signal processing'}
+overlapping similarity: 1.0
+
+2001-2002 --> state estimation <--> state estimation
+1 set: {'state estimation'}
+2 set: {'state estimation'}
+overlapping similarity: 1.0
+
+2001-2002 --> filtering algorithms <--> filtering algorithms
+1 set: {'filtering algorithms'}
+2 set: {'filtering algorithms'}
+overlapping similarity: 1.0
+
+2006-2007 --> linear matrix inequality <--> linear matrix inequality
+1 set: {'sufficient conditions', 'discrete and distributed delays', 'computationally efficient', 'linear matrix inequality'}
+2 set: {'linear matrix inequality'}
+overlapping similarity: 1.0
+
+2006-2007 --> numerical analysis <--> artificial neural network
+1 set: {'variational principle', 'hessian', 'experiment', 'numerical analysis', 'computation', 'gradient', 'artificial neural network'}
+2 set: {'artificial neural network'}
+overlapping similarity: 1.0
+
+2006-2007 --> time-varying delays <--> time-varying delays
+1 set: {'cohen–grossberg neural network', 'time-varying delays', 'artificial neural network'}
+2 set: {'time-varying delays'}
+overlapping similarity: 1.0
+
+2007-2008 --> artificial neural network <--> linear matrix inequality
+1 set: {'artificial neural network'}
+2 set: {'lyapunov method', 'exponential', 'lyapunov fractal', 'linear matrix inequality', 'mathematical optimization', 'exponential stability', 'neural networks', 'unbounded distributed delays', 'numerical analysis', 'artificial neural network', 'social inequality'}
+overlapping similarity: 1.0
+
+2007-2008 --> linear matrix inequality <--> linear matrix inequality
+1 set: {'linear matrix inequality'}
+2 set: {'lyapunov method', 'exponential', 'lyapunov fractal', 'linear matrix inequality', 'mathematical optimization', 'exponential stability', 'neural networks', 'unbounded distributed delays', 'numerical analysis', 'artificial neural network', 'social inequality'}
+overlapping similarity: 1.0
+
+2007-2008 --> social inequality <--> linear matrix inequality
+1 set: {'social inequality'}
+2 set: {'lyapunov method', 'exponential', 'lyapunov fractal', 'linear matrix inequality', 'mathematical optimization', 'exponential stability', 'neural networks', 'unbounded distributed delays', 'numerical analysis', 'artificial neural network', 'social inequality'}
+overlapping similarity: 1.0
+
+2008-2009 --> linear matrix inequality <--> mathematical optimization
+1 set: {'lyapunov method', 'exponential', 'lyapunov fractal', 'linear matrix inequality', 'mathematical optimization', 'exponential stability', 'neural networks', 'unbounded distributed delays', 'numerical analysis', 'artificial neural network', 'social inequality'}
+2 set: {'disjunctive normal form', 'fuzzy rule', 'machine learning', 'lyapunov fractal', 'mathematical optimization', 'global optimization', 'rate of convergence', 'evolutionary algorithm', 'differential evolution', 'system identifier'}
+overlapping similarity: 0.2
+
+2009-2010 --> mathematical optimization <--> multi-agent system|reinforcement learning
+1 set: {'disjunctive normal form', 'fuzzy rule', 'machine learning', 'lyapunov fractal', 'mathematical optimization', 'global optimization', 'rate of convergence', 'evolutionary algorithm', 'differential evolution', 'system identifier'}
+2 set: {'overhead (computing)', 'programming paradigm', 'rate of convergence', 'q-learning', 'action selection', 'multi-agent system', 'coexist (image)', 'algorithm', 'reinforcement learning', 'self-organization', 'interaction', 'cognitive radio', "whole earth 'lectronic link"}
+overlapping similarity: 0.1
+
+2014-2015 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis', 'finite-time stabilization'}
+2 set: {'numerical analysis'}
+overlapping similarity: 1.0
+
+2014-2015 --> neural network simulation <--> neural network simulation|artificial neural network
+1 set: {'neural network simulation', 'finite-time stabilization'}
+2 set: {'neural network simulation', 'memristor-based neural networks', 'memristor', 'synchronization', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}
+overlapping similarity: 0.5
+
+2014-2015 --> mathematical optimization|lyapunov fractal <--> mathematical optimization
+1 set: {'convex optimization', 'constrained optimization', 'lyapunov fractal', 'mathematical optimization', 'rate of convergence', 'evolutionary algorithm', 'http public key pinning'}
+2 set: {'mathematical optimization'}
+overlapping similarity: 1.0
+
+2014-2015 --> ilya sutskever|artificial neural network|optimal control|nonlinear system|dynamic programming <--> optimal control
+1 set: {'matthew d. zeiler', 'nonlinear system', 'ilya sutskever', 'time complexity', 'encoder', 'optimal control', 'finite-time stabilization', 'linear matrix inequality', 'oriol vinyals', 'neural network software', 'statistical machine translation', 'yoshua bengio', 'artificial neural network', 'algorithm', 'neural machine translation', 'markov decision process', 'nal kalchbrenner', 'dynamic programming', 'quoc v. le', 'activation function', 'iterative method', 'bellman equation', 'mathematical model', 'social inequality', 'kyunghyun cho'}
+2 set: {'bellman equation', 'control system', 'optimal control'}
+overlapping similarity: 0.6666666666666666
+
+2015-2016 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis'}
+2 set: {'numerical analysis'}
+overlapping similarity: 1.0
+
+2015-2016 --> nonlinear system <--> simulation|nonlinear system|lyapunov fractal
+1 set: {'nonlinear system', 'control system'}
+2 set: {'nonlinear system', 'approximation algorithm', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'iteration', 'simulation', 'bellman equation'}
+overlapping similarity: 0.5
+
+2015-2016 --> lyapunov fractal <--> simulation|nonlinear system|lyapunov fractal
+1 set: {'lyapunov fractal'}
+2 set: {'nonlinear system', 'approximation algorithm', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'iteration', 'simulation', 'bellman equation'}
+overlapping similarity: 1.0
+
+2015-2016 --> algorithm <--> algorithm
+1 set: {'algorithm', 'machine learning'}
+2 set: {'algorithm'}
+overlapping similarity: 1.0
+
+2015-2016 --> mathematical optimization <--> mathematical optimization
+1 set: {'mathematical optimization'}
+2 set: {'mathematical optimization', 'artificial intelligence', 'sparse matrix'}
+overlapping similarity: 1.0
+
+2015-2016 --> optimal control <--> simulation|nonlinear system|lyapunov fractal
+1 set: {'bellman equation', 'control system', 'optimal control'}
+2 set: {'nonlinear system', 'approximation algorithm', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'iteration', 'simulation', 'bellman equation'}
+overlapping similarity: 0.3333333333333333
+
+2015-2016 --> neural network simulation|artificial neural network <--> neural network simulation
+1 set: {'neural network simulation', 'memristor-based neural networks', 'memristor', 'synchronization', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}
+2 set: {'neural network simulation'}
+overlapping similarity: 1.0
+
+2016-2017 --> artificial neural network <--> artificial neural network
+1 set: {'hamilton–jacobi–bellman equation', 'sparse matrix', 'linear matrix inequality', 'memristor', 'language model', 'neural networks', 'artificial neural network'}
+2 set: {'hopfield network', 'artificial neural network', 'experiment', 'control theory'}
+overlapping similarity: 0.25
+
+2016-2017 --> neural network simulation <--> neural network simulation
+1 set: {'neural network simulation'}
+2 set: {'neural network simulation', 'control theory'}
+overlapping similarity: 1.0
+
+2016-2017 --> numerical analysis <--> numerical analysis
+1 set: {'numerical analysis'}
+2 set: {'numerical analysis', 'control theory'}
+overlapping similarity: 1.0
+
+2016-2017 --> social inequality <--> social inequality
+1 set: {'social inequality'}
+2 set: {'social inequality'}
+overlapping similarity: 1.0
+
+2016-2017 --> algorithm <--> algorithm
+1 set: {'algorithm'}
+2 set: {'algorithm'}
+overlapping similarity: 1.0
+
+2016-2017 --> mathematical optimization <--> mathematical optimization
+1 set: {'mathematical optimization', 'artificial intelligence', 'sparse matrix'}
+2 set: {'approximation algorithm', 'experiment', 'mathematical optimization'}
+overlapping similarity: 0.3333333333333333
+
+2016-2017 --> simulation|nonlinear system|lyapunov fractal <--> lyapunov fractal
+1 set: {'nonlinear system', 'approximation algorithm', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'iteration', 'simulation', 'bellman equation'}
+2 set: {'lyapunov fractal'}
+overlapping similarity: 1.0
+
+2017-2018 --> artificial neural network <--> artificial neural network|lyapunov fractal
+1 set: {'hopfield network', 'artificial neural network', 'experiment', 'control theory'}
+2 set: {'deep learning', 'training data', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'converge', 'data compression', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}
+overlapping similarity: 0.25
+
+2017-2018 --> social inequality <--> social inequality
+1 set: {'social inequality'}
+2 set: {'social inequality'}
+overlapping similarity: 1.0
+
+2017-2018 --> neural network simulation <--> artificial neural network|lyapunov fractal
+1 set: {'neural network simulation', 'control theory'}
+2 set: {'deep learning', 'training data', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'converge', 'data compression', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}
+overlapping similarity: 0.5
+
+2017-2018 --> lyapunov fractal <--> artificial neural network|lyapunov fractal
+1 set: {'lyapunov fractal'}
+2 set: {'deep learning', 'training data', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'converge', 'data compression', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}
+overlapping similarity: 1.0
+
+2017-2018 --> algorithm <--> mathematical optimization
+1 set: {'algorithm'}
+2 set: {'scheduling (computing)', 'pid', 'algorithm', 'mathematical optimization'}
+overlapping similarity: 1.0
+
+2017-2018 --> mathematical optimization <--> mathematical optimization
+1 set: {'approximation algorithm', 'experiment', 'mathematical optimization'}
+2 set: {'scheduling (computing)', 'pid', 'algorithm', 'mathematical optimization'}
+overlapping similarity: 0.3333333333333333
+
+2017-2018 --> semiconductor industry|nonlinear system <--> artificial neural network|lyapunov fractal
+1 set: {'feedback', 'nonlinear system', 'control theory', 'converge', 'triangular matrix', 'semiconductor industry'}
+2 set: {'deep learning', 'training data', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'converge', 'data compression', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}
+overlapping similarity: 0.16666666666666666
+
+FINAL MERGED LIST:
+
+[{'signal processing'}, {'state estimation'}, {'filtering algorithms'}, {'discrete and distributed delays', 'computationally efficient', 'sufficient conditions', 'linear matrix inequality'}, {'variational principle', 'hessian', 'numerical analysis', 'computation', 'artificial neural network', 'gradient', 'experiment'}, {'cohen–grossberg neural network', 'time-varying delays', 'artificial neural network'}, {'lyapunov method', 'exponential', 'lyapunov fractal', 'linear matrix inequality', 'mathematical optimization', 'exponential stability', 'neural networks', 'unbounded distributed delays', 'numerical analysis', 'artificial neural network', 'social inequality'}, {'disjunctive normal form', 'fuzzy rule', 'linear matrix inequality', 'mathematical optimization', 'rate of convergence', 'neural networks', 'unbounded distributed delays', 'artificial neural network', 'differential evolution', 'lyapunov method', 'machine learning', 'exponential', 'lyapunov fractal', 'global optimization', 'exponential stability', 'numerical analysis', 'evolutionary algorithm', 'social inequality', 'system identifier'}, {'disjunctive normal form', 'fuzzy rule', 'overhead (computing)', 'programming paradigm', 'mathematical optimization', 'rate of convergence', 'q-learning', 'differential evolution', 'action selection', 'multi-agent system', 'machine learning', 'coexist (image)', 'algorithm', 'reinforcement learning', 'self-organization', "whole earth 'lectronic link", 'lyapunov fractal', 'global optimization', 'interaction', 'cognitive radio', 'evolutionary algorithm', 'system identifier'}, {'numerical analysis', 'finite-time stabilization'}, {'neural network simulation', 'memristor-based neural networks', 'finite-time stabilization', 'memristor', 'synchronization', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}, {'convex optimization', 'rate of convergence', 'constrained optimization', 'evolutionary algorithm', 'lyapunov fractal', 'http public key pinning', 'mathematical optimization'}, {'matthew d. zeiler', 'nonlinear system', 'control system', 'ilya sutskever', 'time complexity', 'encoder', 'optimal control', 'finite-time stabilization', 'linear matrix inequality', 'oriol vinyals', 'neural network software', 'statistical machine translation', 'yoshua bengio', 'artificial neural network', 'algorithm', 'neural machine translation', 'markov decision process', 'nal kalchbrenner', 'dynamic programming', 'quoc v. le', 'activation function', 'iterative method', 'bellman equation', 'mathematical model', 'social inequality', 'kyunghyun cho'}, {'numerical analysis'}, {'nonlinear system', 'control system', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'iteration', 'bellman equation', 'simulation', 'approximation algorithm'}, {'nonlinear system', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'iteration', 'bellman equation', 'simulation', 'approximation algorithm'}, {'algorithm', 'machine learning'}, {'sparse matrix', 'artificial intelligence', 'mathematical optimization'}, {'control system', 'nonlinear system', 'approximation algorithm', 'hamilton–jacobi–bellman equation', 'lyapunov fractal', 'optimal control', 'iteration', 'simulation', 'bellman equation'}, {'neural network simulation', 'memristor-based neural networks', 'memristor', 'synchronization', 'recurrent neural network', 'bellman equation', 'artificial neural network', 'computer simulation'}, {'hopfield network', 'control theory', 'hamilton–jacobi–bellman equation', 'experiment', 'linear matrix inequality', 'sparse matrix', 'memristor', 'language model', 'neural networks', 'artificial neural network'}, {'neural network simulation', 'control theory'}, {'numerical analysis', 'control theory'}, {'social inequality'}, {'algorithm'}, {'sparse matrix', 'experiment', 'approximation algorithm', 'artificial intelligence', 'mathematical optimization'}, {'deep learning', 'training data', 'control theory', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'hopfield network', 'critical scenarios', 'converge', 'data compression', 'experiment', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}, {'deep learning', 'training data', 'control theory', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'converge', 'data compression', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}, {'deep learning', 'training data', 'anatomical layer', 'spectral leakage', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'lyapunov fractal', 'converge', 'data compression', 'crafted neuron network', '92c20\xa0', 'loss function', 'new data'}, {'scheduling (computing)', 'pid', 'algorithm', 'mathematical optimization'}, {'scheduling (computing)', 'pid', 'algorithm', 'approximation algorithm', 'experiment', 'mathematical optimization'}, {'feedback', 'deep learning', 'nonlinear system', 'training data', 'control theory', 'anatomical layer', 'spectral leakage', 'semiconductor industry', 'predictive failure analysis', 'artificial neural network', 'neural network simulation', 'biologic preservation', 'critical scenarios', 'converge', 'triangular matrix', 'data compression', 'crafted neuron network', 'lyapunov fractal', '92c20\xa0', 'loss function', 'new data'}]

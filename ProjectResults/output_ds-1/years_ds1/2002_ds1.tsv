@@ -1,0 +1,25 @@
+bayesian methods	monte carlo methods	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 3, '059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+bayesian methods	signal processing	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 3, '059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+monte carlo methods	signal processing	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 3, '059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+filtering algorithms	state estimation	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2}
+lyapunov function	global exponential stability	{'622cd0cd6537cf0b6019460bf5af870a939f4230': 2}
+independent component analysis	blind source separation	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+independent component analysis	important method	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+independent component analysis	overcomplete situation	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+independent component analysis	unsupervised learning	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+blind source separation	important method	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+blind source separation	overcomplete situation	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+blind source separation	unsupervised learning	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+important method	overcomplete situation	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+important method	unsupervised learning	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+overcomplete situation	unsupervised learning	{'9d0d05d7cd22a2c65f0e7d7cce35c12f8be80e69': 2, 'df3bd817f2cb3497b6bad5ee71d55e5792994c4b': 2}
+bayesian methods	speech processing	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2, '059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+speech processing	monte carlo methods	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2, '059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+speech processing	signal processing	{'f244cb690f7148f01bc6f3ce7ae1e90be91440af': 2, '059aa865f5a5c8cf7851f2561c04c226e694f0cf': 2}
+business models	consider thinking	{'cf57b6ec09d139e10e24d319703e231d949e7b4f': 2}
+intellectual property	program product	{'3fae1d64a360574eb400e872dbb5339ac92cf3b7': 2}
+intellectual property	patent trademark	{'3fae1d64a360574eb400e872dbb5339ac92cf3b7': 2}
+intellectual property	organization company	{'3fae1d64a360574eb400e872dbb5339ac92cf3b7': 2}
+program product	patent trademark	{'3fae1d64a360574eb400e872dbb5339ac92cf3b7': 2}
+program product	organization company	{'3fae1d64a360574eb400e872dbb5339ac92cf3b7': 2}
+patent trademark	organization company	{'3fae1d64a360574eb400e872dbb5339ac92cf3b7': 2}

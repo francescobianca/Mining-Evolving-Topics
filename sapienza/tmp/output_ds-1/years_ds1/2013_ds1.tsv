@@ -1,0 +1,453 @@
+linear matrix inequality	social inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 3, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+linguistic frame semantics	ontology design	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+linguistic frame semantics	ready ontologies	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+linguistic frame semantics	novel approach	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+linguistic frame semantics	converting text	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+linguistic frame semantics	quality linked	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+linguistic frame semantics	acceptable time	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+linguistic frame semantics	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ontology design	ready ontologies	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ontology design	novel approach	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ontology design	converting text	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ontology design	quality linked	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ontology design	acceptable time	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ontology design	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ready ontologies	novel approach	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ready ontologies	converting text	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ready ontologies	quality linked	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ready ontologies	acceptable time	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+ready ontologies	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+novel approach	converting text	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+novel approach	quality linked	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+novel approach	acceptable time	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+novel approach	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+converting text	quality linked	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+converting text	acceptable time	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+converting text	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+quality linked	acceptable time	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+quality linked	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+acceptable time	ontology design patterns	{'0f9bdab04b7254902f37d3266009759d337c033e': 2, '8b18974ca63955d5b034a42ed574648f986451f7': 2}
+artificial neural network	lyapunov fractal	{'8a007601dbdf779d9423c0575292116f50ef4667': 2}
+artificial neural network	social inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+numerical analysis	lyapunov fractal	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2, '1f8fd061aec720023764196e829c45091e430a49': 2, '5daeb3e6cb1230841042ae0766e9bf1fb4549884': 2}
+lyapunov fractal	social inequality	{'285aec6aeac4dc118945503c7463210aea7f3e05': 2}
+manufacturing	artificial bee colony algorithm	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+manufacturing	hybrid optimization	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+taguchi method	hybrid optimization	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+convex optimization	iteration	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+convex optimization	frank–wolfe algorithm	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+convex optimization	mathematical optimization	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2, 'e0621693afc390f83a76354e0aa702f433857ce6': 2, '98696e7a1f9450a4e10c0f71f9ac4901ec2987e7': 2}
+convex optimization	duality gap	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+iteration	frank–wolfe algorithm	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+iteration	mathematical optimization	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+iteration	duality gap	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+frank–wolfe algorithm	mathematical optimization	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+frank–wolfe algorithm	duality gap	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+mathematical optimization	duality gap	{'acb1297d358cbcfc18cb39c38a3b07b0094ef9c9': 2}
+mathematical optimization	experiment	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+simulation	algorithm	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+cognitive radio	algorithm	{'e2acf01f0b133df820cf47709a2341f4ecac9695': 2, 'e8c45f5dd2b9cd3a1f4fab939daa4c15f33dec3b': 2, '9407026e1de7cc96137a81ec5e37d16c2f921ca6': 2}
+reinforcement learning	q-learning	{'1884b92cea56717d00c3c175a1459a8acd925c67': 2}
+knowledge base	lessons learned	{'80e747dc263a37d11568ca81d9e7a6d10e298709': 2}
+information extraction	named entity	{'2166d83afe53396ae833f903f7401552b4a419d3': 2, '72ac8def31a5e5e3fffd6b00f1d2424c64c5f660': 2}
+information extraction	wikipedia	{'2166d83afe53396ae833f903f7401552b4a419d3': 2, '72ac8def31a5e5e3fffd6b00f1d2424c64c5f660': 2}
+information extraction	semi-structured resources	{'2166d83afe53396ae833f903f7401552b4a419d3': 2, '72ac8def31a5e5e3fffd6b00f1d2424c64c5f660': 2}
+named entity	wikipedia	{'2166d83afe53396ae833f903f7401552b4a419d3': 2, '72ac8def31a5e5e3fffd6b00f1d2424c64c5f660': 2}
+named entity	semi-structured resources	{'2166d83afe53396ae833f903f7401552b4a419d3': 2, '72ac8def31a5e5e3fffd6b00f1d2424c64c5f660': 2}
+wikipedia	semi-structured resources	{'2166d83afe53396ae833f903f7401552b4a419d3': 2, '72ac8def31a5e5e3fffd6b00f1d2424c64c5f660': 2}
+operational laws	multiple attribute decision making (madm)	{'79ef7a1edb97261cedc488ad68d959a3cdd7e995': 2}
+artificial neural network	neural network simulation	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2, 'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2, '8a007601dbdf779d9423c0575292116f50ef4667': 2}
+algorithm	machine learning	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+particle swarm optimization	mathematical optimization	{'8b707a1fe1db031276f419c33e56b7ef4fe0cacf': 2}
+algorithm	mathematical optimization	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2, 'ae2a115f6192a2bdcab2516747734005391e6aac': 2, 'e0621693afc390f83a76354e0aa702f433857ce6': 2, '98696e7a1f9450a4e10c0f71f9ac4901ec2987e7': 2, '7486c6b3f218d9d9453eefee6a97ac6d6a7d77b6': 2, '31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+single solution does	dynamic multi	{'fd7308c0478a513e52a7f88d510bdad5e0dfd175': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+objective optimisation	dynamic multi	{'fd7308c0478a513e52a7f88d510bdad5e0dfd175': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+pythagorean theorem	related idea	{'17058bd49812cc29ebe54e79ff80ec879ce56cbc': 2}
+pythagorean theorem	pythagorean membership grades	{'17058bd49812cc29ebe54e79ff80ec879ce56cbc': 2}
+related idea	pythagorean membership grades	{'17058bd49812cc29ebe54e79ff80ec879ce56cbc': 2}
+artificial neural network	simulation	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+sampling (signal processing)	mathematical optimization	{'8b9a405aa8136ea557c8fae5883ee1b959bf9754': 2, '31e7de2233e356105629e9900b3cb20ec9b9bba6': 3}
+sampling (signal processing)	optimization problem	{'8b9a405aa8136ea557c8fae5883ee1b959bf9754': 2}
+mathematical optimization	optimization problem	{'8b9a405aa8136ea557c8fae5883ee1b959bf9754': 2, 'fd12947c7e48ddae87856c5eb17318a9c9fb262c': 2}
+benchmark (computing)	telecommunications link	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+benchmark (computing)	simulation	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+benchmark (computing)	backhaul (telecommunications)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+throughput	telecommunications link	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+throughput	simulation	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2, '210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+throughput	interference (communication)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+throughput	cell (microprocessor)	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+throughput	algorithm	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+telecommunications link	simulation	{'ef7f015ae96e553682f45eb902f67ef322f72345': 3}
+telecommunications link	interference (communication)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+telecommunications link	backhaul (telecommunications)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+simulation	interference (communication)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+simulation	cell (microprocessor)	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+simulation	backhaul (telecommunications)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+cell (microprocessor)	algorithm	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+batteries	battery charge measurement	{'ad2ee6d3b27d9bfd8b458a358045ad673c37cd54': 2}
+deep learning	algorithm	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+deep learning	machine learning	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+algorithm	central processing unit	{'8699f394e9ca9d6420014ed98c79a413dbf72daa': 2}
+combining game theory	stochastic learning	{'bfdec7c72e3163c71eb16d2d432b819830345635': 2, '20dab1d378684ddc3545a3157f0e68e6f4360cc9': 2}
+combining game theory	tier femtocell networks	{'bfdec7c72e3163c71eb16d2d432b819830345635': 2, '20dab1d378684ddc3545a3157f0e68e6f4360cc9': 2}
+combining game theory	stackelberg game formulation	{'bfdec7c72e3163c71eb16d2d432b819830345635': 2, '20dab1d378684ddc3545a3157f0e68e6f4360cc9': 2}
+stochastic learning	tier femtocell networks	{'bfdec7c72e3163c71eb16d2d432b819830345635': 2, '20dab1d378684ddc3545a3157f0e68e6f4360cc9': 2}
+stochastic learning	stackelberg game formulation	{'bfdec7c72e3163c71eb16d2d432b819830345635': 2, '20dab1d378684ddc3545a3157f0e68e6f4360cc9': 2}
+tier femtocell networks	stackelberg game formulation	{'bfdec7c72e3163c71eb16d2d432b819830345635': 2, '20dab1d378684ddc3545a3157f0e68e6f4360cc9': 2}
+artificial neural network	recurrent neural network	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2, '76eddfeade1369f7f9e147ad8ae2fb6fc83e274d': 2}
+numerical analysis	numerical method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+numerical analysis	stability	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+lyapunov fractal	numerical method	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+lyapunov fractal	stability	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+numerical method	stability	{'4aa8477b6f96768e38f7f1aae02cef38813d781d': 2}
+failure cause	failure mode and effects analysis	{'7dd31741bcc78fdcb04c64d7e9421445358a42f4': 2}
+bernoulli polynomials	complex networks	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	mean squared error	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	synchronization (computer science)	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	couplings	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	stochastic processes	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	synchronization	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+bernoulli polynomials	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	mean squared error	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	synchronization (computer science)	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	couplings	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	stochastic processes	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	synchronization	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+complex networks	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	synchronization (computer science)	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 3}
+mean squared error	couplings	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	stochastic processes	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	synchronization	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	complex network	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+mean squared error	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	couplings	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	stochastic processes	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	synchronization	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	complex network	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization (computer science)	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	stochastic processes	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	synchronization	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+couplings	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+stochastic processes	synchronization	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+stochastic processes	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+stochastic processes	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+stochastic processes	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+stochastic processes	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+stochastic processes	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization	vertex	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+synchronization	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+vertex	probability	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+vertex	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+vertex	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+vertex	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+probability	randomness	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+probability	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+probability	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+randomness	switches	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+randomness	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+switches	lyapunov fractal	{'0106083db63eef5b77fdd3088a8f970fad7900f4': 2}
+lyapunov fractal	neural network simulation	{'8a007601dbdf779d9423c0575292116f50ef4667': 2}
+partitioning algorithms	visualization	{'c614e73b10180f7c8d1ced47aad9dd82065eea2a': 2}
+coordinate descent	times ascent	{'56da068a7f2f2027c1d51a1452d912d527d02398': 2}
+coordinate descent	stochastic gradient descent	{'56da068a7f2f2027c1d51a1452d912d527d02398': 2}
+coordinate descent	rate of convergence	{'56da068a7f2f2027c1d51a1452d912d527d02398': 2}
+times ascent	stochastic gradient descent	{'56da068a7f2f2027c1d51a1452d912d527d02398': 2}
+times ascent	rate of convergence	{'56da068a7f2f2027c1d51a1452d912d527d02398': 2}
+stochastic gradient descent	rate of convergence	{'56da068a7f2f2027c1d51a1452d912d527d02398': 2}
+algorithm	experiment	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+manufacturing	mathematical optimization	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+manufacturing	taguchi methods	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+mathematical optimization	taguchi methods	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+approximation algorithm	mathematical optimization	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2}
+throughput	q-learning	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+performance	simulation	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+performance	q-learning	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+simulation	q-learning	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 3}
+cell (microprocessor)	q-learning	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+algorithm	q-learning	{'210c69d4f78dc8e68b71c04d5d2f8efc778bab9e': 2}
+unmanned aerial vehicle	unmanned quadrotor helicopter 	{'7d35db5a4713fc28fa97a7819c78567bc6acb148': 2}
+jensen's inequality	social inequality	{'d453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, '4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2}
+hammerstein model	space model	{'e7e4398037257831e2d301d850d2c6506e35eecf': 2, '4c46793019d0ed6168e4568726f5a6372822a81e': 2}
+hammerstein model	linear dynamic	{'e7e4398037257831e2d301d850d2c6506e35eecf': 2, '4c46793019d0ed6168e4568726f5a6372822a81e': 2}
+space model	linear dynamic	{'e7e4398037257831e2d301d850d2c6506e35eecf': 2, '4c46793019d0ed6168e4568726f5a6372822a81e': 2}
+artificial neural network	word embedding	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2}
+particle swarm optimization	optimization problem	{'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2}
+artificial neural network	spectral leakage	{'1f8fd061aec720023764196e829c45091e430a49': 2}
+hybrid optimization	algorithm	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+hybrid optimization	mathematical optimization	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+hybrid optimization	differential evolution	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+algorithm	differential evolution	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 3}
+mathematical optimization	differential evolution	{'c5600b6bc7e32de3f3af9b463bcba8999b36b273': 2}
+image resolution	kinect	{'635c15c71006d96486cf6be871c860e1b59f8514': 2}
+image resolution	computer vision	{'635c15c71006d96486cf6be871c860e1b59f8514': 2}
+kinect	computer vision	{'635c15c71006d96486cf6be871c860e1b59f8514': 2}
+simulation	sampling (signal processing)	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+algorithm	sampling (signal processing)	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+particle swarm optimization	nearest neighbor classifier	{'d525dd780ac282c474f37de5dad01c4bee88800f': 2, 'f20ed04f2dc01b1ed8c2765565f2b9343cab71f0': 2}
+data synchronization	artificial neural network	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+data synchronization	sampling - surgical action	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+data synchronization	linear matrix inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+data synchronization	sampling (signal processing)	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+data synchronization	social inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+artificial neural network	sampling - surgical action	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+artificial neural network	linear matrix inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+artificial neural network	sampling (signal processing)	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+sampling - surgical action	linear matrix inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+sampling - surgical action	sampling (signal processing)	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 3, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 3, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 3}
+sampling - surgical action	social inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+linear matrix inequality	sampling (signal processing)	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+sampling (signal processing)	social inequality	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2}
+artificial neural network	recurrent neural networks	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2}
+recurrent neural network	recurrent neural networks	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2}
+recurrent neural network	neural network simulation	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2}
+recurrent neural networks	state estimation	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2}
+recurrent neural networks	neural network simulation	{'ecf7ddbfa0c7603a46b9dccb1c0adcf60d2dcc2b': 2}
+artificial neural network	biological neural networks	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+mean squared error	stochastic process	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+nonlinear system	simulation	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+nonlinear system	block cipher mode of operation	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+nonlinear system	approximation algorithm	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2, '4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2, 'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+simulation	approximation algorithm	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+simulation	biological neural networks	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+block cipher mode of operation	approximation algorithm	{'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+big data	future work	{'b05ae0e5f57584fe7eb739c721adbeb45eef64be': 2}
+word embedding	text corpus	{'7a995ad850a767b70c8c703b8165289c25aabccd': 2, 'f7ebb532677e877ea199dcc5cb0037633502400b': 2}
+christopher d. manning	andrew y. ng	{'0392189b1d978f25ad5ac3295375bd0232bce231': 3, '81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+christopher d. manning	richard socher	{'0392189b1d978f25ad5ac3295375bd0232bce231': 3, '81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andrew y. ng	richard socher	{'0392189b1d978f25ad5ac3295375bd0232bce231': 3, '81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+variational principle	calculus of variations	{'e1a871ebcbdb538e4a99698af73fac2209d9ac2c': 2, 'af64fb0636efb47d8cfa204f4be58559a635c344': 2, '1046061ff6ce04cb1220bb9b65654f0c0f250c58': 2}
+knowledge base	programming paradigm	{'e1c3721516e2db714cb23e3d71a4231054ba0462': 2}
+knowledge base	reinforcement learning	{'e1c3721516e2db714cb23e3d71a4231054ba0462': 2}
+programming paradigm	reinforcement learning	{'e1c3721516e2db714cb23e3d71a4231054ba0462': 2}
+iteration	nonlinear system	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+minimally trained algorithm	syndromic surveillance	{'2ac6af8407a08cec5d2736330a08ae5e42a80c67': 2}
+agents differed	consensus problem	{'5983251f43f616abf886a388235f2c8cf00c42ce': 2}
+agents differed	time heterogeneous multi	{'5983251f43f616abf886a388235f2c8cf00c42ce': 2}
+consensus problem	time heterogeneous multi	{'5983251f43f616abf886a388235f2c8cf00c42ce': 2}
+convex optimization	algorithm	{'e0621693afc390f83a76354e0aa702f433857ce6': 2, '98696e7a1f9450a4e10c0f71f9ac4901ec2987e7': 2}
+bayesian network	variational principle	{'e1a871ebcbdb538e4a99698af73fac2209d9ac2c': 2, 'af64fb0636efb47d8cfa204f4be58559a635c344': 2}
+bayesian network	calculus of variations	{'e1a871ebcbdb538e4a99698af73fac2209d9ac2c': 2, 'af64fb0636efb47d8cfa204f4be58559a635c344': 2}
+bayesian network	topic model	{'e1a871ebcbdb538e4a99698af73fac2209d9ac2c': 2, 'af64fb0636efb47d8cfa204f4be58559a635c344': 2}
+variational principle	topic model	{'e1a871ebcbdb538e4a99698af73fac2209d9ac2c': 2, 'af64fb0636efb47d8cfa204f4be58559a635c344': 2}
+calculus of variations	topic model	{'e1a871ebcbdb538e4a99698af73fac2209d9ac2c': 2, 'af64fb0636efb47d8cfa204f4be58559a635c344': 2}
+dropout (neural networks)	convolutional neural network	{'f00be6dcdce54291abf0f7edf2b3b7b86fde811f': 2}
+dropout (neural networks)	randomness	{'f00be6dcdce54291abf0f7edf2b3b7b86fde811f': 2}
+dropout (neural networks)	matrix regularization	{'f00be6dcdce54291abf0f7edf2b3b7b86fde811f': 2}
+convolutional neural network	randomness	{'f00be6dcdce54291abf0f7edf2b3b7b86fde811f': 2}
+convolutional neural network	matrix regularization	{'f00be6dcdce54291abf0f7edf2b3b7b86fde811f': 2}
+randomness	matrix regularization	{'f00be6dcdce54291abf0f7edf2b3b7b86fde811f': 2}
+gregory s. corrado	jeffrey dean	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+gregory s. corrado	christopher d. manning	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+gregory s. corrado	andrew y. ng	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+gregory s. corrado	richard socher	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+gregory s. corrado	kai chen	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+gregory s. corrado	tomas mikolov	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+jeffrey dean	christopher d. manning	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+jeffrey dean	andrew y. ng	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+jeffrey dean	richard socher	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+jeffrey dean	kai chen	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+jeffrey dean	tomas mikolov	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+christopher d. manning	kai chen	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+christopher d. manning	tomas mikolov	{'0392189b1d978f25ad5ac3295375bd0232bce231': 3, '81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andrew y. ng	kai chen	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+andrew y. ng	tomas mikolov	{'0392189b1d978f25ad5ac3295375bd0232bce231': 3, '81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+richard socher	kai chen	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+richard socher	tomas mikolov	{'0392189b1d978f25ad5ac3295375bd0232bce231': 3, '81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+kai chen	tomas mikolov	{'0392189b1d978f25ad5ac3295375bd0232bce231': 2}
+iteration	simulation	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+iteration	dynamic programming	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+iteration	approximation algorithm	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+iteration	neural networks	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+nonlinear system	dynamic programming	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+nonlinear system	neural networks	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+simulation	dynamic programming	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+simulation	neural networks	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+dynamic programming	approximation algorithm	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+dynamic programming	neural networks	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+approximation algorithm	neural networks	{'4cf5c83e9c3d29bbc5d816f199b491b624dbf5f2': 2}
+simulation	lyapunov fractal	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+self-organization	telecommunications link	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+self-organization	simulation	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+self-organization	organizing (structure)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 3, 'a47854424438c582f7847733fbfee74548c00c31': 2}
+self-organization	interference (communication)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+self-organization	numerical analysis	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+telecommunications link	organizing (structure)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+simulation	organizing (structure)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+organizing (structure)	interference (communication)	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+organizing (structure)	numerical analysis	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+interference (communication)	numerical analysis	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2}
+simulation	sampling - surgical action	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+sampling - surgical action	lyapunov fractal	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+lyapunov fractal	sampling (signal processing)	{'4315ce8a394eaccda5ad9b8714ff77d39c87ac65': 2, 'd453abc3346cc8a8d24ce4a3f66c8c9d578b2015': 2, 'ba2c616097a893c3b3b1a4e72e197a90f550bb40': 2}
+lukás burget	wen-tau yih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	yee whye teh	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	geoffrey zweig	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	christopher d. manning	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	stefan kombrink	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	peter d. turney	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	andrew y. ng	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+lukás burget	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	yee whye teh	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	geoffrey zweig	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	christopher d. manning	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	stefan kombrink	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	peter d. turney	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	andrew y. ng	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+wen-tau yih	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	geoffrey zweig	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	christopher d. manning	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	stefan kombrink	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	peter d. turney	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	andrew y. ng	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+yee whye teh	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	christopher d. manning	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	stefan kombrink	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	peter d. turney	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	andrew y. ng	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+geoffrey zweig	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+christopher d. manning	stefan kombrink	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+christopher d. manning	peter d. turney	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+christopher d. manning	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+christopher d. manning	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+stefan kombrink	peter d. turney	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+stefan kombrink	andrew y. ng	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+stefan kombrink	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+stefan kombrink	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+stefan kombrink	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+stefan kombrink	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+peter d. turney	andrew y. ng	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+peter d. turney	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+peter d. turney	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+peter d. turney	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+peter d. turney	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andrew y. ng	andriy mnih	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andrew y. ng	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andriy mnih	jan cernocký	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andriy mnih	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+andriy mnih	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+jan cernocký	richard socher	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+jan cernocký	tomas mikolov	{'81fd58fbd8599952e84357f49a70a0e97f37a591': 2, '0392189b1d978f25ad5ac3295375bd0232bce231': 2, '06cdb580fa9c182661f129361d63f44712c5126b': 2}
+algorithm presented focuses	3d reconstruction	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+algorithm presented focuses	single moving camera	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+3d reconstruction	single moving camera	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+sampling (signal processing)	experiment	{'31e7de2233e356105629e9900b3cb20ec9b9bba6': 2}
+self-organization	reinforcement learning	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2, 'a47854424438c582f7847733fbfee74548c00c31': 2}
+organizing (structure)	reinforcement learning	{'ef7f015ae96e553682f45eb902f67ef322f72345': 2, 'a47854424438c582f7847733fbfee74548c00c31': 2}
+images captured	extreme lighting conditions	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+images captured	visual quality	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+extreme lighting conditions	visual quality	{'fba3f3497b2444979e5f41b3bb31a83129b3a6ab': 2}
+social networks	online social networks	{'9d29085004a507d20594d61266767b26bd48251e': 2}
+statistical model	boltzmann machine	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+statistical model	variational principle	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+statistical model	dbm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+statistical model	greedy algorithm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+boltzmann machine	variational principle	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+boltzmann machine	dbm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+boltzmann machine	greedy algorithm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+variational principle	dbm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+variational principle	greedy algorithm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+dbm	greedy algorithm	{'9c328add4bbf2f772b24ee0efb7ad0386a64a173': 2, 'd65854cdfeee4670823bca9f2f6d08f0771758e3': 2}
+nonlinear system	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+objective optimisation problems	dynamic multi	{'fd7308c0478a513e52a7f88d510bdad5e0dfd175': 2, '17eceef261c7bac8d4842dd0b595ad8e720b4ac8': 2}
+empirical correlations	computer program	{'537c6626696444fd1637c2113038a8431c0e1eab': 2, 'd223a5369b0acf3d832fb67a56631182d2416be6': 2}
+empirical correlations	support vector machine	{'537c6626696444fd1637c2113038a8431c0e1eab': 2, 'd223a5369b0acf3d832fb67a56631182d2416be6': 2}
+computer program	support vector machine	{'537c6626696444fd1637c2113038a8431c0e1eab': 2, 'd223a5369b0acf3d832fb67a56631182d2416be6': 2}
+nonlinear system	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	gauss–kronrod quadrature formula	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	algebraic equation	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	newton–cotes formulas	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	nonlinear system	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	navier–stokes equations	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	error analysis (mathematics)	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+collocation method	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	algebraic equation	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	newton–cotes formulas	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	nonlinear system	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	navier–stokes equations	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	error analysis (mathematics)	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+gauss–kronrod quadrature formula	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	newton–cotes formulas	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	nonlinear system	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	navier–stokes equations	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	error analysis (mathematics)	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+algebraic equation	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	nonlinear system	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	navier–stokes equations	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	error analysis (mathematics)	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+newton–cotes formulas	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+nonlinear system	navier–stokes equations	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+nonlinear system	error analysis (mathematics)	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+nonlinear system	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+nonlinear system	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+navier–stokes equations	error analysis (mathematics)	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+navier–stokes equations	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+navier–stokes equations	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+navier–stokes equations	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+navier–stokes equations	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+navier–stokes equations	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+error analysis (mathematics)	coefficient	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+error analysis (mathematics)	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+error analysis (mathematics)	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+error analysis (mathematics)	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+error analysis (mathematics)	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+coefficient	approximation algorithm	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+coefficient	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+coefficient	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+coefficient	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+approximation algorithm	b-spline	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+approximation algorithm	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+approximation algorithm	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+b-spline	numerical method	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+b-spline	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
+numerical method	quintic function	{'c9c0cd2ae66497626dcbd892ec2789725d632f8a': 2}
